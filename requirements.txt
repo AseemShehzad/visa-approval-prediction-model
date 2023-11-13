@@ -1,0 +1,11 @@
+fuzzywuzzy
+tensorflow
+numpy
+seaborn
+matplotlib
+pandas
+scikit-learn
+gradio==3.19.1
+gradio_client==0.2.8
+python-Levenshtein
+imblearn

@@ -1,0 +1,12 @@
+runtime: python312
+
+instance_class: F1
+
+### running the gradio app
+entrypoint: python app.py
+
+handlers:
+- url: /.*
+  secure: always
+  redirect_http_response_code: 301
+  script: auto

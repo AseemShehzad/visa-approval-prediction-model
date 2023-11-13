@@ -1,0 +1,603 @@
+,Program,Degree Level,University,Sponsor,Scholarship,Relatives,Visa Attempt,Visa Result,Id
+0,Criminal Justice,,Western Michigan University,Uncle,,Uncle,Second,Refused,0
+1,,,,,,,Second (Refusal Category),,1
+2,,,DePaul University,Father,Yes,,Refused,,2
+3,PhD in Physics,PhD,Purdue University,,Fully funded,No,First,Refused,3
+4,Cyber Security,Masters,UD,Uncle,,Uncle,First,Refused,4
+5,,,University of Wisconsin Milwaukee,Father,,,Second,Refused,5
+6,MBA,Masters,Oklahoma City University,Parents,,Father s,Third,Refused,6
+7,,,Saint Cloud State University,Father,Yes,,First,Refused,7
+8,Nutrition in Psychology,Masters,Illinois State University,Mother,,,First,Refused,8
+9,,,,,,,Second,Previously Refused,9
+10,Computer Science,Bachelors,University of Central Florida,,,,First,Refused,10
+11,Computer Science,Masters,University of the Pacific,Father,,,Second,Approved,11
+12,,,,Father,,,First,Refused,12
+13,MBA,Masters,New York Institute of Technology,Father,,,First,Refused,13
+14,Data Science,Masters,University of New Haven,Father,,,Second,"Rejected
+
+It's difficult to determine the exact reason for visa refusal without knowing the specific details of the case. However, some general tips for improving your chances of getting a visa approval in the next attempt are:
+
+1. Be confident and honest in your answers.
+2. Make sure all your documents are complete and up-to-date.
+3. Practice your English language skills, especially speaking and listening.
+4. Be prepared to explain any discrepancies or mistakes in your application.
+5. Show strong ties to your home country, such as family, job, or property ownership.
+6. Have a clear plan for your studies and future career goals.
+7. Address any concerns raised in the previous interviews, such as the mistake in your address or the reason for choosing a particular university.
+8. Consider getting professional help from an immigration lawyer or visa consultant.",14
+15,Technology Management,Masters,University of Massachusetts Dartmouth,,,,First,Refused,15
+17,Marketing,Bachelors,St Louis University,Father,,"2 brothers, 2 sisters",Second,Refused,17
+18,Information Technology,Bachelors,,Father and,14000 USD per year,One younger brother,Second,Refused,18
+19,Mechanical Engineering,Masters,,Father,Yes,,First,Refused (221(g)),19
+20,,,,,,Sister,First,Refused,20
+21,,,,,,,Second,,21
+22,Business Administration and Management,Bachelor's,Troy University,Father,,,Second,Refused,22
+23,Computer Science,Masters,,,,,Second,Refused,23
+24,Biotechnology,Masters,Texas Tech University,Loan and waivers,Yes,,First,Refused (221g),24
+25,BSCS,,St. Cloud State University,Father,"$7,906 ",N/A s,3,Rejected,25
+26,IELI,,University of North Texas,Brother-in-law and Mother,,Sister,First,Refused (214b),26
+27,MS Finance,Masters,Illinois Institute of Technology,,Merit Scholarship,,2nd,Refused,27
+28,Engineering Management,Masters,St. Cloud State University,Self and Father,,Brother,First,Refused,28
+29,,,University of Alabama Huntsville,,,,First,Refused,29
+30,PhD Computing and Information Sciences,PhD,,Fully funded scholarship,Yes,,First,Refused (221g),30
+31,Computer Science,Bachelors,Missouri State University,Father,,,Second,Refused,31
+32,,,Full Sail University,Father,,,First,Refused,32
+33,Biology,Masters,Rutgers University,Brother,,Brother and Parents,First,Refused,33
+34,Computer Software Technology,,,Father,,Brother,First,Refused,34
+35,Computer Science,Masters,DePaul University,,,,First,Refused,35
+36,Public Administration,Masters,LU,Father,,No,First,Refused,36
+37,MBA,Masters,University of Bridgeport,Husband,Yes,,First,Refused,37
+38,Bachelor,,Miami University,,,,2ndAttempt,Refused,38
+39,,,,Father,,,Second,Approved,39
+40,Food Technology and Processing,,Minnesota State University Mankato,Mother,,,First,Refused,40
+41,,,,,,,Third,,41
+42,,,,,,,First,Refused/221g/Administrative Processing,42
+43,,,,,,,Second,Refused (previous attempt),43
+44,MS Marketing with concentration of Data mining,Masters,USF,,,,Third,Refused,44
+45,Physics PhD,PhD,Georgia State University,,Fully Funded,Brother,First,Refused,45
+46,,,,Husband,,,Third,Refused,46
+47,PhD in Mathematics,PhD,RPI,,Fully Funded,,First,Refused,47
+48,International Business,Bachelors,Minnesota State University,Mother,,,First,Refused,48
+49,Data Sciences,Masters,XYZ University,,,,Second,Refused,49
+51,Engineering Management,Masters,Westcliff Irvine,Father,,,Second,Refused,51
+52,Computer Science,Bachelors,Tennessee Tech University,Father,,,First,Refused,52
+53,Computer Science,,,,,,First,Refused,53
+54,MS in Information Technology,Masters,Gannon University,Father,,,Second,Refused,54
+55,MSBA,Masters,Southern Methodist University,,Yes,,Third,,55
+56,Business Management,Bachelors,,Father,,,Second,Refused,56
+57,Computer Science,,University of Alabama,Parents,,,Second,Refused,57
+58,Business Administration,Bachelors,Murray State University,Father,,,Second,Refused (first attempt),58
+59,Computer Science,Bachelors,University of Illinois at Chicago,Father,,,First,Refused,59
+60,,,,,Full,Brother,First,Refused,60
+61,Electrical and Electronics Engineering,Masters,Lamar University,,Out of state waiver,,First,Refused (214b),61
+63,MBA Entrepreneurship,,Bay Atlantic University,Father,35% Annual,,Third,Refused,63
+64,,,Westcliff University,,,,Second,Refused,64
+65,Civil Engineering,,University of Illinois Urbana Champaign and University of Texas Arlington,,,,Second,,65
+66,,,Adelphi University,,,,,,66
+67,,,,,,,,Refused,67
+68,Electrical and Computer Engineering,Masters,Illinois Institute of Technology,,,,First,Refused,68
+69,,,Texas A&M University Corpus Christi,SAME,,,Second,Refused,69
+70,Health Care Administration,Masters,University of Potomac,Aunt,,Aunt,Second,Refused,70
+71,Computer Science,Bachelors,San Francisco State University,Father,,,First,Refused,71
+72,Business Analytics,Masters,Mercer University,Self,,Father,First,Refused,72
+73,,,,,,,Previous Visa Refusal,N/A (not mentioned if the visa was approved or refused this time),73
+74,,,,,,,First,Refused (status unclear),74
+75,Flight Training,,,Father and Cousin,,,2nd,Refused,75
+76,Big Data Analysts,Masters,Bay Atlantic University,,,Elder Brother,First,Refused,76
+77,ECE,BS,SIUE/Purdue Northwest,Father,8K/year (SIUE),Uncle (previous attempts),Third,Refused (previous attempts),77
+78,BBA in Business Management,Transfer Student,,,,,First,Refused,78
+79,Engineering Management,Masters,,Landlord/Business Owner,,,First,Refused,79
+80,Environmental Studies,Masters,Lamar University,Father,,,First,Refused,80
+81,Architecture,,Tacoma Community College,,,,First,Refused,81
+83,Information System,Bachelors,Adelphi University,Father,,,First,Refused,83
+84,Business Administration and Management,Masters,Webster University,Father,,No,Second,Refused,84
+85,Industrial Engineering,Masters,University of Houston,Self and Father,,,First,Approved,85
+86,Transportation,,University of Washington Seattle,Father,,Yes,First,Approved,86
+87,Civil Engineering,Masters,Purdue,,,Aunt,First,Approved,87
+88,MS Finance,Masters,University of Houston,Father,Yes,,First,Approved,88
+89,PhD,PhD,Idaho State University,,Fully funded,,First,Approved,89
+90,Nursing,Bachelors,Central Michigan University,Mother,50%,No,First,Approved,90
+91,,,,,Fully Funded,,First,Approved,91
+92,CS,MS,TU,and Student Loan,Yes,,First,Approved,92
+93,Physics,PhD,Oklahoma State University,,Fully funded,No,Second,Approved,93
+94,Business Administration,Bachelors,,Parents and Uncle,Yes,Yes,Second,Approved,94
+95,Public Health (Epidemiology),Masters,,Parents,,Elder brothers in UK and Australia,First,Approved,95
+96,Computer Science,Undergraduate,University of Connecticut,Father,Yes,,First,Approved,96
+97,Information Technology,Masters,University of Cumberlands,Brother,,"Brother, 2 sisters",First,Approved,97
+98,Phd Environmental Science,Phd,University of Idaho,Father,University and Professor,,First,"Refused (initially), Approved (after further questioning)",98
+99,Masters,,,Self-funded,,,,,99
+100,,,,,,,,Approved,100
+101,CS,Masters,Western New England,Father,,,First,Approved,101
+102,Construction Management,Masters,University of North Texas,Father,,,First,Approved,102
+103,CS,,USF,,"12,000 USD",Father,First,Approved,103
+104,MBA in Marketing,Masters,New Mexico Highland University,Uncle,,Brother,First,Approved,104
+105,Business,Bachelors,,Father,,,Third,Approved,105
+106,,,,,,,First,Approved,106
+107,PhD Computer Science,PhD,Stony Brook,Fully Funded,Yes,,First,Approved,107
+108,Business Administration,Bachelors,University of South Alabama,Father,,Sister in Spain,Third,Approved,108
+109,Business Analytics,MS,,,,Yes,First,Approved,109
+110,Mechanical Engineering,Masters,University of Cincinnati,Father,$20k,,First,Approved,110
+111,Public Health,Masters,University of New Haven,Father,,,First,Approved,111
+112,Computer Science,Masters,George Washington University,Father,"$37,000 ",Uncle,First,Approved,112
+113,Computer Science,Bachelor's,Georgia State University,Told,,,First,Approved,113
+114,Computer Science,Bachelors,Minnesota State University Mankato,Father,Yes,,First,Approved,114
+115,Business Studies,Bachelors,Rhodes College,Father,Yes,Father,First,Approved,115
+117,,,Drexel University,Father,,No,First,Approved,117
+118,Cinematography and Film/Video Production,Bachelor's,University of Missouri-Kansas City,Father,,Sister,First,Approved,118
+119,Agricultural and Applied Economics,Masters,University of Illinois Urbana Champaign,Professor,Fully funded,,First,Approved,119
+121,BBA,,Westcliff University,Father,,No,First,Approved,121
+122,Hospitality Management,Masters,Iowa State University,Mother,,Mother,First,Approved,122
+125,Computer Science,Masters,DePaul University,Parents,,Two sisters,First,Approved,125
+126,Data Science,,Stevens Institute of Technology,and Student Loan,Yes,No,First,Approved,126
+127,Undisclosed,Bachelors,University of Kansas,Father,Yes,Yes,First,Approved,127
+128,Masters,,Top 20 Grad Program,Uncle and Aunt,Dean's Scholarship,Uncle and Aunt,Third,Approved,128
+129,International Business,BS,"University of Minnesota, Mankato",Father,$8k,Brother,First,Approved,129
+130,Computer Science PhD,PhD,"University of California, Davis",Father,Fully funded,,First,Approved,130
+131,Civil Engineering,Masters,Texas Tech University,Father,50%,,First,Approved,131
+132,Civil Engineering,Masters,Lamar University,Father,Merit-based,,First,Approved,132
+133,Power Engineering,Masters,IIT Chicago,Father,,"2 Brothers, 2 Sisters",First,Approved,133
+134,Energy Systems,Masters,Illinois Institute of Technology,Father,,,First,Approved,134
+135,,,Union College,Father,Yes,Yes,First,Approved,135
+136,Master's,,ABC University,XYZ,,,First,Approved,136
+137,"Aerospace Engineering (Pathway+Bachelors), Mechanical Engineering (Bachelors)",Bachelors,"Wichita State University, Indiana Institute of Technology",Father,"$13,000 ",No s,4,Refused,137
+138,Civil Engineering,Graduate,University of Alabama,Father,Graduate Assistantship,,First,Approved,138
+139,Computer Science,Bachelor's,University of Massachusetts Amherst,Father,Yes,Yes,First,Approved,139
+140,Agriculture,Bachelor,Southwest Minnesota State University,Father,,,2nd,Approved,140
+141,Biomedical Engineering PhD,PhD,The Ohio State University,Research Associate Position,Fully Funded,,First,Approved,141
+142,Civil Engineering,Masters,University of Texas at Austin,Uncle,,Uncle,First,Approved,142
+143,Engineering Education PhD,PhD,State University of New York at Buffalo,,Fully funded,,First,Approved,143
+144,Information Systems,Masters,Cleveland State University,Mother,,,First,Approved,144
+145,Computer Science,Bachelors,University of Southern Mississippi,Father,100% tuition scholarship,No relatives in US,First,Approved,145
+146,Civil Engineering,MS,,Father,Research Assistantship,,First,Approved,146
+147,Differential Equations,,Harvard,Self,,,First,Approved,147
+148,,,Cleveland State University,Cousin,,,First,Approved,148
+149,Computer Science,Bachelors,Rhodes College,Father,40k,,First,Approved,149
+150,Electrical,MS,University of Missouri Kansas City (UMKC),Father,,Maternal Uncle,First,Approved,150
+151,Data Analytics,Masters,New Mexico State University,Father,,Brother,First,Approved,151
+152,MSBA,,XYZ University,Father,Yes,Aunt,First,Approved,152
+153,Professional Accountancy,Masters,,Father,,Yes,First,Approved,153
+154,Project Management,Masters,"Northeastern University, Boston",Father,,,Second,Approved,154
+155,PhD in Curriculum and Instruction within Science Education,PhD,Virginia Tech,,100% assistantship,,First,Approved,155
+156,,Master's,"University of California, Davis",Father,,,First,Approved,156
+157,Chemical and Biomolecular Engineering,PhD,,,,,First,Approved,157
+158,Engineering (Civil),Masters,,,Graduate Assistantship,,First,Approved,158
+159,Civil Engineering,Masters,University of Dayton,Father,,Yes,First,Approved,159
+160,Masters,Masters,UT Dallas,Prodigy,Yes,,,,160
+161,Business Administration,Bachelors,DePaul University,Cousin,,,First,Approved,161
+162,Observership,,,Father,,,First,Approved,162
+163,,,,Applicant,,Spouse and Children,First,Approved,163
+164,Computer Science,Bachelor,University of Illinois,Father,,2 brothers and 2 sisters,Third,Approved,164
+165,,,Indiana Institute of Tech,Father's business,,,First,Approved,165
+166,MBA,Masters,,Father,,,First,Approved,166
+167,Business Analytics,Masters,Mercer University,Father,,,First,Approved,167
+168,Economics,Masters,George Mason,Father and Brother-in-law,,Sister,First,Approved,168
+169,Civil Engineering,Masters,Texas Tech University,Mother,50%,No,Second,Approved,169
+170,MS Biological Sciences,Masters,New Mexico Highlands University,Father,,,First,Approved,170
+171,,,Penn State,,Full tuition scholarship,,Second,Approved,171
+172,Computer Science,Masters,DePaul,Parents,,,First,Approved,172
+176,PhD in Physics,PhD,Purdue University,,Fully funded,No relatives in USA,First,Refused,176
+237,,,Westcliff University,,,,Second,Refused (214B),237
+241,Business,Bachelors,Illinois University Carbondale,Father,,,First,"Refused
+
+N/A (for the appointment question)",241
+247,,,,,,,Previous Refusal,N/A (not mentioned if the visa was approved or refused this time),247
+251,ECE,BS,SIUE/Purdue Northwest,Father,8K/year (SIUE),Uncle,Third,Refused,251
+252,BBA,Bachelor,,,,,First,Refused,252
+260,MS/MBA,,,,,,Second,Rejected,260
+261,CS,Masters,Florida State University,Brother,,Brother,First,Rejected,261
+262,English Course (Pathway),,Oregon State University,Cousin,,Cousin,First,Rejected,262
+263,,,,,,,First,Rejected,263
+265,"Data Science, Data Analytics, Business Analytics, Computer Science",Masters,,,,,,,265
+266,MS Project Management,Masters,Boston,Father,,,Second,Refused,266
+269,MBA,,"NYIT, Manhattan Campus",,,,First,Rejected,269
+270,,,Louisiana Tech University,,,,First,Rejected,270
+271,Doctorate in Business Administration,PhD,Westclift University,Self and Father,,,First,Rejected,271
+273,Business Analytics,Masters,Hofstra University,Parents,,,First,Rejected,273
+274,MS in Java,Masters,MIU,Self-finance,,Father,First,Rejected,274
+275,Business Administration,Bachelors,University of Utah,Family,"$35,000 ",,First,Rejected,275
+278,Computer Science,Masters,RU,Inheritance and Personal Funds,,,First,Rejected,278
+279,MCS,,Cleveland State University,Self,,Father,First,Rejected,279
+280,Computer Science,,,Father,Yes,Yes,Second,Rejected,280
+281,,,FIU,Uncle,,Uncle,First,Rejected,281
+282,Computer Science,Masters,Westcliff University,Father,,,First,Rejected,282
+283,,,,,,Husband,3,Rejected,283
+284,,,DePaul,,50%,,2,Rejected,284
+285,MS Business Analytics,Masters,Brandeis,,,,First,"Refused
+
+When can they reapply for the F1? - N/A (Need to check the reason for refusal)
+Is applying after 24 hours too soon? - N/A
+If so, how long should they wait? - N/A
+What can they change in the application? - N/A (Need to check the reason for refusal)",285
+287,Computer Science,Bachelors,,Father,65%,Brother (deceased),First,Rejected,287
+288,,Bachelors,Westcliff University,Father,,,First,Rejected,288
+289,MBA in Global Affairs,Masters,Bay Atlantic University,Father,,,First,Rejected,289
+290,,,,,,Brother,Second,,290
+291,,,,,,,,,291
+292,Software Engineering,Bachelors,University of Arizona,Mother,,,First,Rejected,292
+293,,,,,,,Second (assumed),Rejected,293
+294,Fashion Design and Merchandise,Diploma,Los Angeles Community College,Husband,,,First,Rejected,294
+295,Data Science and Analytics,Masters,Grand Valley State University,Father,,,Second,Rejected,295
+296,Computer Science,Bachelors,Queens College CUNY,Father,,,First,Rejected (214b),296
+297,MS Data Science -> Masters in Business Analytics,N/A (Assuming it's still Masters),Minnesota State University -> University of Dayton,Brother -> Father,,Sister on J-1 visa,Second,,297
+298,CIS,BS,Eastern Illinois University,Father,Partial,,First,Rejected,298
+299,Computer Science,Masters,University of Dayton,Father,Yes,,First,Rejected (214b),299
+301,Business Administration and Management,Bachelors,Missouri State University,Father,,,Second,Rejected,301
+302,MBA,,University of North Texas,Father,,,First,Rejected (214b),302
+303,Physics,Bachelors,University of Wisconsin Milwaukee,Father,,,First,Rejected,303
+304,Business,Bachelors,Murray State University,Father,,,First,Rejected,304
+305,Business Administration,Bachelors,Whittier College LA,Father,,,Second,Rejected,305
+306,Quantitative Risk Analysis & Management,Masters,Georgia State University,Father,Full-tuition wavier and GRA,,First,Rejected (214b),306
+307,Computer Sciences,Undergraduate,DePaul University,Father,52% scholarship at DePaul,No other relative,First,Rejected,307
+308,Computer Science,Bachelors,Washington State University,Father,,Brother,First,Rejected,308
+309,MS Engineering (Electrical),Masters,Saint Louis,Global Graduate  Program,7000$,,First,Rejected,309
+310,Computer Science,Bachelors,,,,,Second,Rejected,310
+311,MBA with Healthcare Management Specialization,,Concordia University Chicago,Uncle,,Uncle,Third,Rejected,311
+312,Cyber Security,Associates,,Father,,,Second,Rejected,312
+313,,,,Family,,,Australia and Canada,"Rejected. For F1 visa, N/A.",313
+314,Mechanical Engineering,MS,Georgia Southern University,Self,Yes,Friend,First,Rejected (214B),314
+315,International Business,Bachelors,Minnesota State University Mankato,Father,,,First,Rejected,315
+316,Management Information Systems,Masters,University of Illinois Springfield,Father,,,First,Rejected,316
+317,MBA with concentration in IT,Masters,University of the Potomac,Father,50%,,First,Rejected,317
+318,Information Systems,,Adelphi University,Mother,,,First,Rejected,318
+319,Computers and Information Technology,Bachelors,"Alfred University NY (1st attempt), Palm Beach Atlantic University FA (2nd attempt)",Father,,No relatives in US s,2,Rejected,319
+320,Film,Masters,Chatham University,Father,,,First,Rejected,320
+321,,,,Father,Yes,,Second,,321
+322,Engineering Management,Masters,Indiana Institute of Technology,Uncle,,Uncle,Second,,322
+323,Masters,,,,100%,,2,Rejected,323
+324,Economics and Business Administration,Undergraduate,,,,,2nd,Rejected,324
+325,HR Management,Masters,Northeastern University,Father,,Brother,First,Approved,325
+326,Business Administration,Bachelors,Youngstown State University,Uncle,,Uncle,First,Rejected,326
+327,,,,Self,,No,First,Rejected,327
+328,Computer Science,Bachelors,St. Thomas University,,70%,,First,Rejected,328
+329,,,,Father/Uncle,,Uncle,Second,,329
+330,MBA,,University of Maine,Uncle,Trustee Tuition Scholarship,Uncle,Second,Rejected,330
+331,Business Administration,Bachelors,University of South Alabama,Brother,,,Third,Refused,331
+332,,,Southern Illinois University/South Dakota State University,,,,Second,Pending,332
+334,M.A Higher Education in Academic Advising,Masters,Rowan University NJ,Father,,,First,Rejected,334
+336,,,,,,Cousin,First,Rejected,336
+337,ESL and Computer Science,Bachelors,University of Kentucky,Father,,,First,Refused,337
+338,Chemistry,Bachelors,Minnesota State University Mankato,Father,"$7,700 ",,First,Rejected (214B),338
+339,Business Management,Bachelors,,Uncle,,,First,Rejected,339
+340,Masters in CS,Masters,Maharishi International University,Self,,,First,Refused,340
+345,,,UT Arlington,,,,,,345
+346,Masters,F1,,,,,Third,,346
+348,Chemistry PhD,PhD,Boston University,,Fully funded,,First,Approved,348
+350,Industrial Engineering,,"Southern Illinois University, Edwardsville",,$15000 for 2 years,,,,350
+351,,,,,,Uncle,Fourth,Approved,351
+352,Nutrition,PhD,University of Minnesota,HEC,Yes,,First,Accepted,352
+353,MS(IT),Masters,Westcliff,,,,First,"Refused
+
+As an AI language model, I cannot provide personal opinions or recommendations. However, it is important to answer truthfully and confidently during the visa interview. If you feel that your answer was not clear or convincing enough, you can try to improve your explanation. Changing universities may or may not improve your chances of getting a visa, as it depends on various factors. It is recommended to research and choose a university that has a good reputation and acceptance rate for international students.",353
+355,Software Engineering,Masters,,Father,$41k/year,Brother studying in Italy,Second,Refused,355
+356,Economics,Undergraduate (Bachelors),"Miami University in Oxford, Ohio",Parents,Automatic,,First,Approved,356
+357,Masters in Civil Engineering,Masters,Texas Tech,Father,,"Elder brother, younger sister",Fourth,Approved,357
+360,Computer Science,Masters,,,,Parents and younger sibling,First,Refused,360
+361,Chemistry,Bachelors,,Father,"$10,000 per year",,First,Refused (214b),361
+363,Food and Nutrition,MPhil,University of Minnesota,HEC and University,Fully Funded,,First,,363
+366,,Bachelors,University of Kansas,Father,36k,Father,First,Approved,366
+369,Data Science,Masters,"Illinois Institute of Technology, American University Washington DC, Florida Atlantic University, University of the Pacific California",,,,,,369
+371,IT,Bachelors,,,,,Second,Rejected,371
+372,Physical Education and Nutrition,,Adelphi University NY,,,,,,372
+377,Training Session,,,Self,,,First,Approved,377
+378,Academic Intensive English,,Salem University,Brother,,,First,Approved,378
+379,Computer Science Engineering,PhD,University of North Texas Denton,,,,First,Approved,379
+380,,,,,,,First,Administrative Processing (221g),380
+381,Engineering Management,Masters,Central Michigan University,Father,,,Third,Refused,381
+382,Business Administration,Bachelors,Williamson College of Business,Father,,,First,Approved,382
+387,Doctor of Business Administration,Doctorate,Westcliff University,,,,First,Refused (214(b)),387
+390,,,New York Institute of Technology,Father,,,Second,Refused,390
+392,MS Business Analytics,Masters,DePaul University,Father,Yes,Brother,First,Approved,392
+394,,,Central Michigan University,Father,,,First,Refused,394
+395,BS Industrial Engineering,,"University of Illinois at Chicago, University of Dayton, Auburn University, University of Central Florida, University of the Pacific",,,,Canada study visa refused,,395
+396,Biological Sciences,BS,University of Arizona,Father,,,First,Refused,396
+397,Business Analytics,,UMass Boston,Father,,,First,,397
+398,Doctorate,,,,,,First,Approved,398
+400,Mechanical Engineering,Bachelors,Indiana Institute of Technology,Father,"$13,000 ",N/A s,Fourth,Refused,400
+401,Engineering,Masters,,,,,First,Approved,401
+404,BSCS,,NYU,Father,,,First,Approved,404
+406,,,,,,,First,221(g) Administrative Processing,406
+407,Conference,,George Mason University,,Fully Funded,,First,Approved,407
+411,Cinematography and Film Production,,,Father,Yes,,Second,Approved,411
+414,Business Administration,Bachelors,University of South Alabama,Brother,,,3,Refused,414
+416,SCM,Masters,,Father,,,First,Refused,416
+417,,,,,,,First,,417
+420,Mechanical Engineering,Masters,University of Dayton,Father,,No,First,Approved,420
+422,F2 Visa,,,,,,First,Administrative Processing,422
+424,MS Computer Science,Masters,Not mentioned,Father,Yes (Assistantship),,First,Approved,424
+425,PhD,,,,,,First,Refused,425
+426,Chemical Engineering PhD,PhD,University of Massachusetts Amherst,Assistantship,,,First,Approved,426
+430,PhD,,,Funded position/HEC,Yes,,First,Administrative Processing (AP),430
+431,Computer Science,Bachelors,University of Illinois at Chicago,Father,,No,First,Approved,431
+432,,,University of Louisiana at Monroe,,90%,,First,Refused (221g),432
+433,Physics,PhD,Texas Tech University,,,,First,AP (221g),433
+434,Information Technology,Masters,Gannon University,,,,First,Refused,434
+435,Engineering,Masters,,Uncle,,No,First,Refused,435
+437,MS BA,Masters,USF,Father,,,First,Approved,437
+443,,,South Dakota State University,,,,First,,443
+445,MSBA,Masters,"WP Carey (Arizona State University), Utah, Umass Amherst",,,,,,445
+448,Transportation Engineering,Masters,University of Washington,Father,,Uncle,First,Rejected,448
+449,Business Analytics,Masters,Mercer,Self,,,First,Approved,449
+450,Nursing,BS,Pace University,Father,,,Third,Refused,450
+452,Masters,,,,,,First,Refused,452
+454,Business Analytics,Masters,Mercer University,Father,,No,First,Approved,454
+457,Computer Science,,UMass Boston,Father,,,Second,Refused,457
+459,Career Counseling,Master's and Specialist,Florida State University,Uncle,Assistantship,Uncle,First,Approved,459
+460,,,,,Yes,,,,460
+464,Computer and Information Sciences,Masters,Adelphi University,Father,,Brothers,Second,Refused,464
+466,Industrial Engineering,Masters,Texas A&M University,Parents,,Sister,First,Approved,466
+467,PhD,F1,,,Funded,,First,,467
+468,Energy Management,Masters,New York Institute of Technology,,,Father,First,Rejected,468
+469,,,DePaul University,Employer,,,First,Refused,469
+471,J-1 Visa,,,,,,Second,Refused,471
+472,,,,Uncle,,Uncle,Second,Approved,472
+473,,,,,,,Second,Refused,473
+474,Health Sciences,Bachelor's,Texas A&M University,Father,,Uncle,First,Approved,474
+476,Computer Science,Masters,DePaul,,,,,,476
+478,HealthCare Analytics,Masters,Robert Morris University,Father,,Younger sister,Third,Approved,478
+479,,,,,,,First,Refused (221g),479
+480,Computer Science,Masters,University of Bridgeport,,Yes,,First,Refused,480
+481,Bachelors,Bachelors,,,,,First,Approved,481
+483,J1,,,,,,First,Refused (pending administrative processing),483
+484,Undergrad,,T-50 university,,80,,First,Approved (but under administrative processing),484
+485,Autonomous Systems & Robotics,,Illinois Institute of Technology,Father,$7k per semester,,First,Refused,485
+489,Mechanical Engineering,Masters,,,,Sister,First,Approved,489
+490,Peace and Conflict Studies,Masters,"Rutgers University, Newark",Father,,,First,Refused,490
+491,Business Administration,Bachelor,North American University,Parents,Yes,,First,Refused,491
+492,,,Iowa State University,Father,,Brother,First,Rejected,492
+493,,,,Family,,Brother in USA,First,Approved,493
+494,Engineering Management,Masters,,Father,,Family in Saudi Arabia,First,Approved,494
+495,Hospitality Management,Baccalaureate,South Dakota State University,Father,,,First,Approved,495
+496,Masters in Peace and Conflict / Masters in Political Science,Masters,Rutgers-Newark / University of South Florida,Self / N/A,,,,,496
+497,Engineering Management,Masters,Gannon University,,,,First,Refused,497
+498,MPA,Masters,University of Alabama,,,,First,Rejected,498
+501,Health Care Management,Masters,,,,,First,Refused,501
+503,Business Administration,Masters,University of New Haven,Xyz,,,First,Approved,503
+505,PhD,PhD,Oregon State University,Fully Funded,Stipend + Graduate Assistantship,,,,505
+506,Electrical and Computer Engineering,Bachelors,University of Arizona,Father,,No,Second,Approved,506
+507,Graduate Program,Masters,Bard College,Self,Yes,,,,507
+509,Double Major in Economics and Business Administration,Undergraduate,University of South Dakota,Father,Partial Scholarship,,Second,Rejected,509
+510,Structural Engineering,MSc,University of Texas at Austin,Uncle,,Uncle,First,,510
+512,,,Cleveland State University,,,,2,Refused.,512
+513,Public Affairs,Masters,"Indiana University, Bloomington",,Yes,Yes,First,Approved,513
+514,Computer Science,Masters,MIU,Self,,,First,"Rejected
+
+To improve in the second attempt, you should provide more concrete reasons for choosing the university and the course. You should also provide a more detailed plan for how you will pay for your education and living expenses. Listing yourself as the sponsor is not necessarily a weak point, but you should be prepared to provide evidence of your financial ability to support yourself during your studies.",514
+515,Public Administration,Masters,Central Michigan University,,,,First,Refused,515
+516,Computer Science,Bachelors,Adelphi University,,,,Second,Refused,516
+522,Computer Science,Masters,Canada and America,Fully Funded,Yes,,,,522
+527,,,University of Central Oklahoma,Father,,,Second,Refused,527
+529,Marketing,Bachelors,DePaul University,Father,Yes,,First,Approved,529
+531,,,UIC,Father,,,First,Refused,531
+532,Electrical Engineering,Masters,"California State University, Northridge",Brother-in-law,Yes,Father (deceased),First,Refused,532
+540,Civil Engineering,PhD,University of Kansas,,Yes,,First,Approved,540
+542,,,,,,,Fourth,,542
+543,,,,,,F2,First,Refused,543
+545,,,,,Full scholarship,Brother,First,Refused,545
+546,,,,,,,,Pending,546
+548,MBA,,,Self,Financial Aid,No,First,Approved,548
+549,Computer Science,Bachelors,Rhodes College,Father,40k,Brother,First,Approved,549
+550,Criminal Justice and Law Enforcement Administration,Masters,University of North Alabama,,,,First,Approved,550
+551,F2,,,,,,First,Administrative Processing (AP),551
+552,MSCS,Masters,,,,,2,Refused,552
+554,PhD,,University of Florida,Fully Funded,,Spouse,,,554
+556,IT,Masters,Pace University,Father,Yes,No,Second,Approved,556
+557,Civil and Environmental Engineering PhD,PhD,Rowan University,Graduate Assistantship/Fellowship,Yes,,First,Approved,557
+559,PhD,PhD,Told,University,Fully funded,,Renewal,AP 221g,559
+562,MBA,,Kentucky State University Frankfort,Parents,,,Second,Refused,562
+563,Computer Science,Community College,Highline College,,,,First,Rejected,563
+566,Human Resource Management,Masters,University of Texas at Arlington,Uncle,,Father's sister's husband,Second,Approved,566
+567,Master,,Saint Paul State University,Self,,Cousin,First,Rejected,567
+568,Postdoctoral Research,,,University,,,First,221(g) Refusal,568
+571,,,,,,,Third,Approved,571
+573,Civil Engineering,Masters,University of Texas at Arlington,,,Brother on F1 Visa,Second,Approved,573
+575,Civil Engineering,Masters,Lamar University,Father,Merit,,First,Approved,575
+576,Bachelors,,"University of Alabama, La Roche University",Uncle,14k USD per year,Uncle,Third,,576
+579,Computer Science,Bachelors,Queens College NY,,,Brother,Second,Refused,579
+580,F2 Visa,,,,,,First,Rejected,580
+581,Flight School,,,Father and Cousin,,No,2,Refused,581
+583,Electrical Engineering,Masters,,Father,Yes,No,First,Approved,583
+585,Masters,,,Husband,,Father-in-law,First,Refused,585
+586,MPA,Masters,University of Michigan-Flint,Uncle,,Uncle,First,Refused,586
+589,,,,,Fully funded or strong financial sponsorship,Immediate family members,,,589
+590,Business,Bachelors,South Dakota State University,Father,,,First,Refused,590
+591,Business Administration and Management,Bachelors,Minnesota State University,,,,First,Refused,591
+592,Law,Masters,University of California Davis,Father,,,First,Administrative Processing (Blue Slip),592
+593,Civil Engineering,Masters,Virginia Tech,Father,,Extended family,First,Approved,593
+597,Mechanical Engineering,Masters,University of New Haven,,Pending,,,,597
+598,,,,Father,41k$,Brother,First,#VisaRefused,598
+599,Masters,Masters,Bard College,Self,Partial Financial Aid,,,,599
+606,Computer Sciences,Bachelors,University of Pacific,Father,,"Paternal Uncle, Grandparents, Dada Abu, Dado Ami",Second,Refused,606
+607,,,,,,Wife,First,Refused,607
+612,Computer Science with Information and Communication Technology,Masters,Old Dominion University,Uncle,,Brother-in-law,Second,Refused,612
+613,Structural Engineering PhD,PhD,Caltech,,Fully funded,,First,Approved,613
+615,MS Digital Supply Chain Management,Masters,California State Uni Pomona Campus,Father,,,Third,Refused,615
+616,,,,,,,,Administrative Processing,616
+617,,,,,,Friend,First,Refused,617
+618,Mech and Aerospace Engineering,,,Father,,,First,Approved,618
+619,PhD,,University of Kentucky Lexington,,,,,,619
+621,Postdoc,,"University of Washington, Seattle",Postdoc Supervisor,,Spouse and Toddler,First,Approved,621
+622,Ph.D.,,Michigan State University,,Fully Funded,,First,Administrative Processing,622
+624,MS Civil Engineering,Masters,"University of Washington, North Carolina State University, Iowa State University",,,,,,624
+625,N/A (not mentioned),N/A (not mentioned),Mississippi State University,Father,100%,,N/A (not mentioned),N/A (not mentioned),625
+626,CS,Bachelors,USF,Family,12k USD/year,,,,626
+627,Computer Science,Bachelors,Adelphi University,Father,,Mother,First,Refused,627
+630,MBA,Masters,"Cornell, University of Texas Austin Mccombs, Michigan Ross",,,,,,630
+631,Computer Science,Bachelors,Minnesota State University Mankato,Father,45%,,First,Approved,631
+632,PhD,Doctoral,Oregon State University,University,Yes,,First,,632
+633,Mechanical Engineering,Masters,Cleveland State,Father,,,Second,Refused,633
+637,Mechanical Engineering,Masters,University of Pennsylvania or University of Illinois at Urbana Champaign,,,,,,637
+638,Computer Science,Masters,Maharishi International University,Self,Yes,,First,Refused,638
+641,,,,,,Engaged to US Citizen,First,Rejected,641
+643,,,,,,,,Refused/Unknown,643
+646,Exchange Visitor Research,,University of Michigan Ann Arbor,HEC,Fully funded,Distant relatives and husband's brother in US,First,Approved,646
+648,MBA,,,Father-in-law,,,First,Rejected,648
+650,Business,F-1 Univsersity,Hult International Business School,,,,First,Approved,650
+651,Pathway,,UCF,Brother,,,Second,Refused,651
+653,General Studies,,Loyola,,,,First,Approved,653
+655,Computer Science,Bachelors,Queens College NY,,,,Second,,655
+657,Psychology PhD,PhD,Not mentioned,,,,First,Approved,657
+659,Computer Science,Masters,University of North Carolina Charlotte,Father,,,First,Rejected,659
+661,,,,Self,,No,First,Refused,661
+662,Economics,,Illinois State University,,,,First,Approved,662
+663,Engineering,Masters,University of Cincinnati,Father,20k,,First,Approved,663
+664,Business,Masters,University of Cincinnati,Father,20k,,First,Approved,664
+665,Information Technology,Masters,University of Cincinnati,Father,20k,,First,Approved,665
+666,Physics,PhD,University of Cincinnati,University,Assistantship,,First,Approved,666
+667,Civil Engineering,Masters,Arizona State University,Father,,,First,Refused,667
+668,Engineering,Masters,University of Houston,Father,,,First,Approved,668
+669,MBA,Masters,Gannon University,Self,,,First,Refused,669
+670,Chemical and Biomolecular Engineering,Masters,North Dakota University,,Assistantship,,First,Approved,670
+671,Electrical Engineering,Masters,University of Southern California,,10%,,First,Approved,671
+672,Computer Science,Bachelors,Dayton University,Father,,Brother,Second,Refused,672
+674,Pharmacy,Bachelors,SDSU,Father,,,First,Refused,674
+675,Computer Science,Masters,City University of Seattle,Father,,N/A s,First,Refused,675
+676,,,,Father,Yes,,Second,Refused,676
+677,MBA with concentration in Business Analytics,Masters,University of Dallas (UD),Sister,,"Sister
+s","First
+Visa Status",Refused,677
+679,Business Administration and Management,Masters,LIU Brooklyn Campus,Father's Elder Brother,,Uncle,First,Refused,679
+680,Doctorate of Business Administration,PhD,,Self,,,First,Refused,680
+681,Cyber Security,Masters,UD (University not specified),Uncle,,Uncle,First,Refused,681
+682,MSBA,Masters,University of Hartford,Father,"$4,000 ",No s,First,Refused,682
+683,Computer Science,Bachelors,University of Central Florida,,,N/A s,First,Refused,683
+685,,,,,,Brother and nephews,First,Refused,685
+686,Cyber Security,Bachelors,Arkansas Tech University,Self,,N/A s,First,Refused,686
+688,Computer Science,Masters,University of the Pacific,Father,,N/A s,Second,Approved,688
+689,Computer Software Technology,,,Father,,"Brother
+s",First,Refused,689
+690,Computer Science,Masters,Maharishi International University,,,,First,Refused,690
+691,Computer Science,,Saint Louis University,Parents,Yes,Uncle,First,Refused,692
+693,Accountancy,Bachelors,DePaul University,Father,Yes,N/A s,Second,Refused,694
+696,Computing and Information Sciences,PhD,,Fully funded PhD scholarship,Yes,,First,Refused,697
+697,Computer Science,Bachelors,Missouri State University,Father,,N/A s,Second,Refused,698
+698,Mechanical Engineering,Masters,,Father,Yes,,First,Refused,699
+699,Computer Science,Bachelors,University of Illinois at Chicago,Father,,N/A s,First,Refused,700
+700,BSCS,Bachelors,St. Cloud State University,Father,Yes,N/A s,3,Rejected,701
+701,Data Science,Masters,University of New Haven,Father,,N/A s,Second,Refused,702
+702,Finance,Masters,Illinois Institute of Technology,,Yes,N/A s,Second,Refused,703
+704,Master's,Masters,Texas Tech State University,,Yes,N/A s,First,Refused,705
+705,Structural Engineering,PhD,Caltech,,Fully funded,N/A s,First,Refused,706
+706,Exercise Science,Bachelors,Central Michigan University,Father,50%,,First,Refused,707
+712,Entertainment Business,Masters,Full Sail University,Father,,N/A s,First,Refused,713
+713,Biotechnology,Masters,Texas Tech University,Loan and waivers,,N/A s,First,Refused,714
+714,Business Administration and Management,,Xyz Community College,Father,,,First,Refused,715
+715,MBA,Masters,New York Institute of Technology,Father,,N/A s,First,Refused,716
+718,Engineering Management,Masters,St. Cloud State University,Self and Father,,Brother s,First,Refused,719
+719,Business Administration and Management,Bachelors,Troy University,Father,,None s,Second,Refused,720
+720,Flight Training,,,Father and Cousin,,N/A s,Second,Refused,721
+722,Information Technology,Bachelors,,Father,Yes,,Second,Refused,723
+723,Business Analytics,Masters,University of Dallas,,,,Second,Refused,724
+724,Data Analytics and Strategic Business Intelligence,,LIU,Brother,,N/A s,First,Refused,725
+727,,,Miami University,,,,2nd,Refused,728
+729,ECE,Bachelors,SIUE/Purdue Northwest,Father,8K/year (SIUE),Uncle s,Third,Refused,730
+730,Computer Science,Bachelors,San Francisco State University,Father and Brother,"$5,000 ",N/A s,Second,Refused,731
+731,,,,,,,Second,"Refused, then issued",732
+732,Business Administration,Bachelors,,Uncle,,,First,Refused,733
+733,Marketing,Bachelors,St. Louis University,Father,,,Second,Refused,734
+734,MS in Information Technology,Masters,Gannon University,Father,,N/A s,Second,Refused,735
+738,Computer Science,Masters,DePaul University,,,N/A s,Second,Refused,739
+739,Electrical Engineering,,,Father,,,Second,Approved,740
+740,Technology Management,Masters,,Parents,,,First,Refused,741
+742,Food Technology and Processing,,Minnesota State University Mankato,Mother,,N/A s,First,Refused,744
+744,Architecture,,Tacoma Community College,,,N/A s,First,Refused,746
+751,Nutrition Psychology,,Illinois State University,,,,Second,,753
+754,Business Analytics,Masters,Mercer University,Self,,,First,Refused,756
+756,Industrial Engineering,Masters,University of Houston,Self and Father,,None s,First,Approved,758
+757,Computer Science,Undergrad,University of Southern California,Family,Partial,Aunt,First,Approved,759
+758,Mechanical Engineering,Bachelors,Eastern Michigan University,Father,,,First,Approved,760
+759,PhD,PhD,University of California,,,,,,761
+760,Nursing,Bachelors,Central Michigan University,Mother,Yes,No,First,Approved,762
+762,Marketing Analytics,Masters,Pace,Father,,No,First,Approved,764
+763,Computer Science,,USF,,Yes,,First,Approved,765
+764,Computer Engineering,Masters,City University of New York,Aunt and Uncle,,Aunt and Uncle,First,Approved,766
+765,,,,,Fully funded,,First,Approved,767
+766,Mechanical Engineering,Masters,Southern Illinois University Edwardsville,Father,Yes,One brother,First,Approved,768
+767,Graphic Designing,Masters,Mississippi College,Mother's friend,,Distant relatives s,First,Approved,769
+768,Business Analytics,Masters,,Father,,Yes s,First,Approved,770
+771,Biotechnology,Masters,UTSA,Father,,Distant cousin s,First,Approved,773
+772,,,,,,,Fourth,Refused,774
+773,Computer Science,Masters,DePaul,Parents,,Two sisters,First,Approved,775
+774,Construction Management,Masters,University of North Texas,Father,,"N/A
+s","First
+Visa Status",Approved,776
+775,Data Science,Masters,,Self,,No s,Second,Approved,777
+776,Business Administration,Bachelors,University of South Alabama,Father,,Sister s,Third,Approved,778
+777,Physics,PhD,Oklahoma State University,,Fully funded,No s,Second,Approved,779
+780,Environmental Science,PhD,,Father,University and Professor,N/A s,First,Approved,782
+781,LLM,Masters,Illinois Institute of Technology,Father,Yes,,First,Approved,783
+782,,,University of Kansas,Father,Yes,Yes,First,Approved,784
+783,Public Informatics and Urban Planning,Masters,Rutgers University,Family,60%,Brothers,First,Approved,785
+784,Nutrition and Dietetics,Bachelors,SEMO,Mother,,,First,Approved,786
+786,Psychology,Bachelors,University of North Texas,Father,,No s,First,Approved,788
+787,Curriculum and Instruction,PhD,Virginia Tech,,100% assistantship,,First,Approved,789
+788,Project Management,Masters,Northeastern University,Father,,N/A s,Second,Approved,790
+790,Physics,Bachelors,Saginaw Valley State University,Uncle,50%,Uncle,First,Approved,792
+791,International Business,Bachelors,"University of Minnesota, Mankato",Father,$8k,Brother s,First,Approved,793
+792,Bachelor of Agriculture,Bachelors,Southwest Minnesota State University,Father,,N/A s,Second,Approved,794
+793,MAS Power Engineering,Masters,IIT Chicago,Father,,"2 brothers, 2 sisters",First,Approved,795
+794,Energy Systems,Masters,Illinois Institute of Technology,Father,,N/A s,First,Approved,796
+795,Information Systems,Masters,Cleveland State University,Mother,,No s,First,Approved,797
+796,Business Administration,Bachelors,University of Utah,Father,Yes,,First,Rejected,798
+797,MBA,Masters,Top 10 MBA school,Private loan,Yes,,First,Approved,799
+798,Computer Science,Bachelors,University of Illinois at Chicago,Father,,No s,First,Approved,800
+799,Business,Bachelors,California State University,Father,,N/A s,Third,Approved,801
+800,Data Science,Masters,Stevens Institute of Technology,and Student Loan,Yes,No s,First,Approved,802
+802,Biomedical Engineering,PhD,The Ohio State University,,Fully funded,,First,Approved,804
+803,CS,MS,TU,and Student Loan,Yes,Yes,First,Approved,805
+804,Computer Science,PhD,Stony Brook,Fully funded,Yes,,First,Approved,806
+805,Business Analytics,Masters,University of Central Oklahoma,Father,Partial,Brother-in-law s,Second,Approved,807
+808,Data Analytics,Masters,New Mexico State University,Father,,Brother s,First,Approved,810
+811,,Masters,University of Cumberlands,Brother,,"Sisters and Brother
+s",First,Approved,813
+812,Chemistry,PhD,University of Tulsa,,Research Assistantship,,,,814
+813,Public Health,Masters,,Parents,,Brother,First,Approved,815
+814,LLM,Masters,,,Fully/Partially Funded,,,,816
+815,Computer Science,Undergraduate,University of Connecticut,Father,Yes,N/A s,First,Approved,817
+816,,,,Self,,"Spouse, Child",First,Approved,818
+817,Master's,Master's,Not mentioned,xyz,,N/A s,First,Approved,819
+819,Computer Science,Bachelors,The University of Southern Mississippi,Father,100%,N/A s,,,821
+820,Civil Engineering,PhD,University of Kansas,,Yes,N/A s,First,Approved,822
+821,Business Analytics,Masters,XYZ School,Self-finance and brother,Yes,Brother s,Second,Approved,823
+822,Engineering,Masters,,,,N/A s,First,Approved,824
+825,,,,,,,Second,221g,827
+826,Agricultural and Applied Economics,Masters,University of Illinois Urbana Champaign,Professor (name not mentioned),Yes,,First,Approved,828
+827,Electrical,Masters,University of Missouri Kansas City (UMKC),Father,,Maternal Uncle s,First,Approved,829
+828,Business Administration,Bachelors,DePaul University,Cousin,,N/A s,First,Approved,830
+832,MSBA,Masters,XYZ University,Father,Yes,,First,Approved,835
+834,Computer Science,Bachelors,University of Illinois,Father,,N/A s,Third,Approved,837
+835,Civil Engineering,Masters,Lamar University,Father,Yes,N/A s,First,Approved,838
+836,MBA,Masters,,Self,,No s,First,Approved,839
+837,Hospitality Management,Masters,Iowa State University,Mother,,,First,Approved,840
+838,,,St. John's University,,,,,,841
+839,Computer Science,Masters,DePaul,Parents,,N/A s,First,Approved,842
+840,Project Management,Masters,Northeastern University,Friend,,,Second,Approved,843
+844,Computer Science,Masters,City University of Seattle,Father,,,First,Refused,848
+851,MSBA,Masters,University of Hartford,Father,"$4,000 ",No,First,Refused,855
+875,Structural Engineering,PhD,Caltech,,Fully funded,,First,Refused,879
+902,Business Administration,Bachelors,,Uncle,,N/A s,First,Refused,906
+904,Information Technology,Masters,Gannon University,Father,,N/A s,Second,Refused,908
+926,,,,,,"N/A
+s",Third,Rejected,930
+927,Management Sciences and Quantitative Methods,Masters,University of Wisconsin Milwaukee,Father,,No s,Third,Rejected,931
+928,Computer Science,Bachelors,Wright State University,Mother,Yes,N/A s,First,Rejected,932
+929,Computer Science,Masters,XYZ University,Brother,,No s,First,Rejected,933
+932,Geology,Masters,California State University Fresno,Father,,N/A s,First,Rejected,936
+936,Computer Science,Bachelors,Minnesota State University Mankato,Father,Yes,N/A s,First,Approved,940
+937,,,,,,,Second,Rejected,941
+938,Master of Engineering,Masters,Texas Tech University,Father,,N/A s,Third,Rejected,942
+941,Computer Science,Masters,Westcliff University,Father,,N/A s,First,Rejected,945
+942,CS,Masters,Florida State University,Brother,,Brother s,First,Rejected,946
+943,Business Analytics,Masters,Hofstra,Parents,,N/A s,First,Rejected,947
+946,Computer Science,Bachelors,Queens College CUNY,Father,,N/A s,First,Rejected,950
+947,MSCS,Masters,UT Dallas,Father,,No s,First,Rejected,951
+948,CS,Masters,Illinois Institute of Technology,Father,$10k,N/A s,2,Rejected,952
+949,Civil Engineering,Ph.D.,George Mason University,Brother,Yes,,Second,Rejected,953
+952,MBA,Masters,Adelphi University,Father,,N/A s,First,Rejected,956
+953,,,,,,,Multiple,Rejections and Approvals,957
+954,Management Sciences and Quantitative Methods,Masters,Wisconsin University,Father,,No s,Second,Rejected,958
+957,CIS,Bachelors,Eastern Illinois University,Father,Partial,N/A s,First,Rejected,961
+958,Business Administration and Management,Bachelors,Missouri State University,Father,,N/A s,Second,Rejected,962
+959,Information Systems,Masters,Northeastern University,,,,Second,,963
+960,Computer Science,,,Father,,Friend and cousin,Second,Rejected,964
+961,,,Penn State University,,,,Second,,965
+962,Business Analytics,Masters,DePaul University,Father,Yes,No s,Second,Rejected,966

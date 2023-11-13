@@ -1,0 +1,15 @@
+runtime: python310
+
+instance_class: F2
+
+env_variables:
+  GRADIO_SERVER_NAME: 0.0.0.0
+  GRADIO_SERVER_PORT: 8080
+
+entrypoint: python app.py
+
+handlers:
+- url: /.*
+  secure: always
+  redirect_http_response_code: 301
+  script: auto

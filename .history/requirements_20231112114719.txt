@@ -1,0 +1,10 @@
+fuzzywuzzy
+tensorflow==2.12.0
+numpy
+seaborn
+matplotlib
+pandas
+scikit-learn
+gradio
+python-Levenshtein
+imblearn
