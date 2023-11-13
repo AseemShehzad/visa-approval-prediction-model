@@ -1,3 +1,7 @@
+```
+.history/
 index.html
 styles.css
 /ipynb_checkpoints
+__pycache__/
+```
