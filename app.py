@@ -3,15 +3,16 @@ import tensorflow as tf
 import numpy as np
 import pandas as pd
 import pickle
+import os
 from utils import standardize_strings, find_ranks
 
 def load_model_files():
     """ Load the necessary model files such as encoder, red_list, and model """
-    with open('inference_files/onehot_encoder.pkl', 'rb') as file:
+    with open(os.path.join('inference_files', 'onehot_encoder.pkl'), 'rb') as file:
         encoder = pickle.load(file)
-    with open('inference_files/red_listed_unis.pkl', 'rb') as file:
+    with open(os.path.join('inference_files', 'red_listed_unis.pkl'), 'rb') as file:
         red_list = pickle.load(file)
-    model = tf.saved_model.load('inference_files/model')
+    model = tf.saved_model.load(os.path.join('inference_files', 'model'))
     return encoder, red_list, model
 
 ### Define the function for processing inputs ###
@@ -31,7 +32,7 @@ def process_inputs(university_name, sponsor, relatives, program, scholarship, de
     input_df (pd.DataFrame): Processed dataframe
     """
     # Load the university ranking database
-    uni_data_dw = pd.read_csv(r"data\National Universities Rankings.csv", encoding='ANSI')
+    uni_data_dw = pd.read_csv(os.path.join("data", "National Universities Rankings.csv"), encoding='ANSI')
     uni_ranks = pd.DataFrame({'University': uni_data_dw['Name'], 'Rank': uni_data_dw['Rank']})
 
     # Find the rank of the university
@@ -94,48 +95,56 @@ def predict_prob(university_name, sponsor, relatives, program, scholarship, degr
     encoder, red_list, model = loader()
     input_df = process_inputs(university_name, sponsor, relatives, program, scholarship, degree_level, visa_attempt, encoder, red_list)
     predictions = model.signatures['serving_default'](input_df)
-    print(predictions)
-    return np.round(predictions['dense_7'].numpy()[0][0] * 100, 1)
+    output_tensor_name = list(predictions.keys())[0]  
+    output_tensor = predictions[output_tensor_name]
+    prediction_value = np.round(output_tensor.numpy()[0][0] * 100, 1)
+    return prediction_value
+
+def generate_random_input():
+    """ Generate random input values for testing """
+    university_name = "University of Cincinnati"
+    sponsor = np.random.choice(['Other', 'Family', 'Loan', 'Self', 'University', 'Employer'])
+    relatives = np.random.choice(["No", "Sibling(s)", "Relative(s)", "Parents"])
+    program = np.random.choice(["Business Studies", "CS", "IT", "Engineering", "Natural Sciences", "Other"])
+    scholarship = np.random.choice(["Full/Assistantship", "Yes/Partial", "No"])
+    degree_level = np.random.choice(["Masters", "PhD", "Bachelors", "Community College"])
+    visa_attempt = np.random.choice(["First", "Second", "Third", "Fourth or more"])
+    
+    return university_name, sponsor, relatives, program, scholarship, degree_level, visa_attempt
+
+# Test the function
+university_name, sponsor, relatives, program, scholarship, degree_level, visa_attempt = generate_random_input()
+probability = predict_prob(university_name, sponsor, relatives, program, scholarship, degree_level, visa_attempt)
 
 ## Define the Gradio interface
-
-with gr.Blocks(css= 'footer {visibility: hidden}', title="US Visa Prediction") as interface:
+with gr.Blocks(title="US Visa Prediction App") as interface:
+    gr.Markdown("<div style='text-align: center; font-size: 2rem;'>US Student Visa Prediction</div>")
     with gr.Row():
-        gr.Markdown("## US Visa Prediction")
+        # University name
+        university_name = gr.Text(type="text", label="University Name", placeholder="Enter University Name", info="Which university are you applying visa for?")
     with gr.Row():
-        gr.Markdown("### This app predicts the probability of getting a US visa")
+        
+        # Sponsor
+        sponsor = gr.Dropdown(choices=['Other', 'Family', 'Loan', 'Self', 'University', 'Employer'], label="Sponsor", info="Who is paying for your studies?")
+        # Relative
+        relatives = gr.Dropdown(choices=["No", "Sibling(s)", "Relative(s)", "Parents"], label="Relatives", info="Do you have any relatives in the US?")
     with gr.Row():
-        with gr.Column(width=1):
-            # University name
-            university_name = gr.Text(type="text", label="University Name", placeholder="Enter University Name", scale=0)
-        with gr.Column(width=1):
-            # Sponsor
-            sponsor = gr.Dropdown(choices=['Other', 'Family', 'Loan', 'Self', 'University', 'Employer'], label="Sponsor", scale=0)
-
-    with gr.Row():
-        # Relatives
-        relatives = gr.Dropdown(choices=["No", "Sibling(s)", "Relative(s)", "Parents"], label="Relatives")
-
         # Program
-        program = gr.Dropdown(choices=["Business Studies", "CS", "IT", "Engineering", "Natural Sciences", "Other"], label="Program")
+        program = gr.Dropdown(choices=["Business Studies", "CS", "IT", "Engineering", "Natural Sciences", "Other"], label="Program", info = "What is your field of study?")
 
+        # Scholarship
+        scholarship = gr.Dropdown(choices=["Full/Assistantship", "Yes/Partial", "No"], label="Scholarship", info="Did you get any scholarship from the university?")
     with gr.Row():
-    # Scholarship
-        scholarship = gr.Dropdown(choices=["Full/Assistantship", "Yes/Partial", "No"], label="Scholarship")
-
         # Degree level
-        degree_level = gr.Dropdown(choices=["Masters", "PhD", "Bachelors", "Community College"], label="Degree Level")
-    with gr.Row():
+        degree_level = gr.Dropdown(choices=["Masters", "PhD", "Bachelors", "Community College"], label="Degree Level", info="Which degree are you applying for?")
+
         # Visa attempt
-        visa_attempt = gr.Dropdown(choices=["First", "Second", "Third", "Fourth or more"], label="Visa Attempt")
-
-    with gr.Row():
-        with gr.Column(width=1):
-            click_button = gr.Button("Predict")        
-
-    # Output
-    pred_prob = gr.Textbox(label="Probability of getting a visa")
+        visa_attempt = gr.Dropdown(choices=["First", "Second", "Third", "Fourth or more"], label="Visa Attempt", info="Which visa attempt is this?")
+    
+    click_button = gr.Button("Predict")
+    pred_prob = gr.Textbox(label="Probability of Visa Approval")
+    gr.Markdown("<div style='text-align: center;'>Contact at <a href='mailto:aseemshehzad10@gmail.com'>aseemshehzad10@gmail.com</a> for any questions or guidance.</div>")
     
     click_button.click(fn=predict_prob, inputs=[university_name, sponsor, relatives, program, scholarship, degree_level, visa_attempt], outputs=pred_prob)
 
-interface.launch(debug=True, width="70", show_api=False)
+interface.launch(debug=True, show_api=False)

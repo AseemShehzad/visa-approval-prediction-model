@@ -23,7 +23,7 @@ To set up the project, follow these steps:
    ```
 
 2. **Install Dependencies**
-   - Ensure Python 3.8+ is installed.
+   - Ensure Python 3.10 is installed.
    - Install required Python packages:
      ```bash
      pip install -r requirements.txt
@@ -39,7 +39,7 @@ To set up the project, follow these steps:
 
 ## Results
 
-The deployed model can be accessed at [muhammadaseem.com/visaprobability](http://muhammadaseem.com/visa). Over 1000 students have used this service, with feedback indicating its utility in improving visa approval chances.
+The deployed model can be accessed at [muhammadaseem.com/visaprobability](http://muhammadaseem.com/visaprobability). Over 1000 students have used this service, with feedback indicating its utility in improving visa approval chances.
 
 ## License
 
