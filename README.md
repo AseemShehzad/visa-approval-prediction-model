@@ -18,7 +18,7 @@ To set up the project, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/visa-approval-prediction.git
+   git clone https://github.com/md-aseem/visa-approval-prediction.git
    cd visa-approval-prediction
    ```
 
