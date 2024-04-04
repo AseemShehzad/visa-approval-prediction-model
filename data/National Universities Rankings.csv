@@ -96,7 +96,7 @@ North Carolina State University--Raleigh,"Raleigh, NC",92
 University of Colorado--Boulder,"Boulder, CO",92
 University of Vermont,"Burlington, VT",92
 Drexel University,"Philadelphia, PA",96
-Saint Louis University,"St. Louis, MO",96
+Saint Louis University,"St. Louis, MO",800
 Stony Brook University--SUNY,"Stony Brook, NY",96
 Auburn University,"Auburn, AL",99
 Loyola University Chicago,"Chicago, IL",99
@@ -265,7 +265,7 @@ Maharishi International University,IL,1240
 University of Potomac,IL,1422
 Saint Paul State University,IL,1532
 University of Michigan-Flint,il,350
-XYZ University ,IL,1000
+XYZ University ,IL,1500
 Indiana Institute of Tech,IL,250
 Rowan University,IL,194
 Told University,IL,200
@@ -282,3 +282,11 @@ Chatham University,BA,800
 Youngstown State University,,800
 St. Thomas University,,800
 New York Institute of Technology,,450
+Bard College,,400
+Rhodes College,,130
+Ohio Dominican University,,300
+Western New England University,,630
+Murray State University,,383
+San Francisco State University,,700
+T-50 university,,50
+N/A University,,N/A

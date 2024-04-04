@@ -1,0 +1,880 @@
+,Interview Location,Program,Degree Level,University,Universities Applied,Sponsor,Scholarship,Relatives in US,Visa Attempts,Visa Result
+0,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+1,Islamabad,Computer Science,Bachelors,University of Illinois at Chicago,3,Father,N/A,N/A,First,Refused
+2,N/A,Psychology,Bachelors,Kansas State University,N/A,N/A,N/A,N/A,N/A,N/A
+3,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,First,Approved
+4,Islamabad,Computer Science,Masters,George Washington University,N/A,Father/Uncle,"$37,000",Uncle,N/A,Approved
+5,N/A,N/A,N/A,N/A,N/A,Father,N/A,N/A,First,Refused
+6,Islamabad,Commerce,Bachelors,Central Michigan University,4,Father,N/A,N/A,First,Refused
+7,Islamabad,Construction Management,Masters,University of North Texas,4,Father,N/A,N/A,First,Approved
+8,Islamabad,Biology,Masters,Rutgers University,N/A,Brother,N/A,"Parents, Brother",First,Refused
+9,N/A,N/A,Community College,Baylor University,N/A,N/A,N/A,N/A,Second,Refused
+10,Islamabad,MSBA,Masters,Southern Methodist University,2,N/A,Yes,N/A,Third,Refused
+11,N/A,BS Industrial Engineering,Bachelors,"Multiple (University of Illinois at Chicago, University of Dayton, Auburn University, University of Central Florida, University of the Pacific)",5,N/A,N/A,N/A,N/A,N/A
+12,N/A,Energy Systems,Masters,Illinois Institute of Technology,N/A,Father,N/A,N/A,First,Approved
+13,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+14,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+15,Islamabad,Agriculture,Bachelors,Southwest Minnesota State University,1,Father,N/A,N/A,Second,Approved
+16,N/A,Cinematography and Film Production,N/A,N/A,N/A,Father,Yes,N/A,Second,Approved
+17,Islamabad,Bachelor's Degree,Bachelors,N/A,N/A,Father,N/A,N/A,First,Refused
+18,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+19,N/A,PhD,PhD,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+20,Karachi,MPA (Master's in Public Administration),Masters,University of Alabama,3,N/A,N/A,N/A,First,Refused
+21,Islamabad,Business Administration and Management,Masters,Webster University,N/A,Father,N/A,No,Second,Refused
+22,,,,,,,,,,
+23,N/A,Master in Science Business Analysis,Masters,Mercy University,N/A,Self,N/A,N/A,First,Approved
+24,Karachi,Health Care Analytics,Masters,Robert Morris University,2,Father,N/A,N/A,Third,Approved
+25,Islamabad,Industrial Engineering,PhD,Texas Tech University,N/A,N/A,Fully Funded,N/A,N/A,N/A
+26,Islamabad,Java (Banking Software Development),Masters,MIU (Name not provided),4,Self-finance,N/A,N/A,First,Rejected
+27,Karachi,Data Sciences,Masters,XYZ University,2,N/A,N/A,N/A,Second,Refused
+28,Karachi,Civil Engineering,Masters,University of Central Florida,N/A,Father,Research Assistantship,N/A,First,Approved
+29,Karachi,Psychology,Bachelors,University of North of Texas,5,Father,N/A,No,First,Approved
+30,Dubai,N/A,N/A,N/A,N/A,N/A,N/A,Spouse,First,Refused
+31,Islamabad,N/A,N/A,University of Central Oklahoma,N/A,Father,N/A,N/A,First,Refused
+32,N/A,Doctor of Business Administration,PhD,Westcliff University,N/A,N/A,N/A,N/A,First,Refused
+33,Islamabad,BBA,Bachelors,"Westcliff University, California",N/A,Father,N/A,No,First,Approved
+34,Islamabad,Mechanical Engineering,Bachelors,Eastern Michigan University,N/A,Father,N/A,N/A,First,Approved
+35,Islamabad,Civil Engineering,Masters,Purdue University,N/A,N/A,N/A,N/A,First,Approved
+36,Islamabad,Computer Science,Bachelors,San Francisco State University,N/A,Father,N/A,N/A,First,Refused
+37,N/A,MBA,N/A,Webster University Missouri,N/A,N/A,N/A,N/A,Second,Rejected
+38,Islamabad,N/A,N/A,Indiana Institute of Technology,N/A,Father,N/A,N/A,First,Approved
+39,Islamabad,Interior Design,Associate,City College of San Francisco,N/A,Brother,N/A,Sister,First,Refused
+40,Karachi,Artificial Intelligence,Undergraduate,Florida International University,N/A,Uncle,N/A,N/A,First,Rejected
+41,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+42,,,,,,,,,,
+43,N/A,Data Science,Masters,"Multiple (Illinois Institute of Technology, American University Washington DC, Florida Atlantic University, University of the Pacific California)",4,N/A,N/A,N/A,N/A,N/A
+44,Islamabad,Study Away Semester,N/A,NYU Shanghai to NYU,N/A,Father's Cousin,N/A,N/A,First,Refused
+45,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,Brother,First,Approved
+46,Islamabad,Biomedical Engineering,PhD,Wichita State University,N/A,N/A,N/A,N/A,N/A,N/A
+47,Karachi,Not specified,Bachelors,Westcliff University,3,Father,N/A,N/A,First,Refused
+48,N/A,Software Engineering,Masters,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+49,Islamabad,MBA,Masters,New York Institute of Technology,3,Father,N/A,N/A,First,Refused
+50,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Second,Refused
+51,,,,,,,,,,
+52,Karachi,Computer Science,Masters,Western New England University,N/A,Father,N/A,N/A,First,Approved
+53,London,International Health Conference,N/A,N/A,N/A,N/A,N/A,N/A,First,Approved
+54,,,,,,,,,,
+55,,,,,,,,,,
+56,Islamabad,Engineering,Masters,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+57,,,,,,,,,,
+58,Islamabad,Electrical and Computer Engineering,N/A,University of Texas at Austin,N/A,Father,N/A,N/A,First,Approved
+59,Islamabad,Economics,PhD,Tennessee State University,3,N/A,Fully paid scholarship,N/A,4th,Refused
+60,Karachi,Professional Pilot Training,N/A,Pelican Flight Training LLC,N/A,N/A,N/A,N/A,Third,Approved
+61,Islamabad/Karachi,Mechanical Engineering,Masters,Cleveland State University,3,Father,N/A,N/A,Second,Refused
+62,Islamabad,International Business,Bachelors,Minnesota State University Mankato,3,Mother,N/A,N/A,First,Refused
+63,Islamabad,Finance,Masters,Illinois Institute of Technology,N/A,N/A,"$7,000",N/A,Second,Refused
+64,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Twice,Refused
+65,Islamabad,Power Engineering,Masters,Illinois Institute of Technology Chicago,N/A,Father,N/A,N/A,First,Approved
+66,Karachi,Computer Science,Bachelors,St. Thomas University,N/A,N/A,70%,No,First,Rejected
+67,N/A,PhD,PhD,University of Kentucky Lexington,8,N/A,N/A,N/A,N/A,N/A
+68,Karachi,Graphic Designing,Masters,Mississippi College,N/A,Self/Mother's Friend,N/A,Grandparents,First,Approved
+69,N/A,PhD Nutrition,PhD,University of Minnesota,N/A,HEC/University,Partly funded by university and rest by HEC,N/A,First,Accepted
+70,N/A,Film,Masters,University of Central Arkansas,1,Father,N/A,N/A,First,Refused
+71,Karachi,Marketing,Bachelors,DePaul University,N/A,Father,Yes,No,First,Approved
+72,Islamabad,Nursing,Bachelors,Central Michigan University,N/A,Mother,50%,No,First,Approved
+73,N/A,BBA (Bachelor in Business Administration),Bachelors,Iqra University,N/A,N/A,N/A,N/A,First,Refused
+74,Karachi,Data Science and Analytics,Masters,Grand Valley State University,2,Father,N/A,N/A,Second,Rejected
+75,N/A,N/A,N/A,N/A,N/A,N/A,N/A,"Parents, Sister",Second,Rejected
+76,N/A,N/A,PhD,Texas Tech University,N/A,N/A,N/A,N/A,N/A,N/A
+77,N/A,Postdoctoral Research,PhD,N/A,N/A,University,N/A,N/A,First,221(g) refusal white slip
+78,,Civil Engineering,Masters,"University of Washington (Seattle Campus), North Carolina State University, Iowa State University",3,N/A,N/A,N/A,N/A,N/A
+79,Karachi,Masters,Masters,Full Sail University,3,Father,N/A,N/A,First,Refused
+80,Islamabad,Dental Hygiene,Bachelors,Utah Tech University,3,Parents,N/A,N/A,First,Refused
+81,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,N/A,First,Approved
+82,Islamabad,Business Administration,Bachelors,DePaul University,N/A,Relative,N/A,N/A,First,Approved
+83,Islamabad,Civil Engineering,Masters,Texas Tech University,1,Father,50%,N/A,First,Approved
+84,Karachi,PhD,PhD,N/A,N/A,N/A,N/A,Brother,First,Refused
+85,N/A,Ph.D.,Ph.D.,Oregon State University,N/A,N/A,Fully funded,N/A,N/A,N/A
+86,Karachi,Data Science,,Stevens Institute of Technology,2,Self,Yes,No,First,Approved
+87,N/A,N/A,N/A,University of South Florida,2,N/A,N/A,N/A,Second,Refused
+88,Karachi,Economics and Business Administration,Undergraduate,University of South Dakota,10,Father,Partial,No,Second,Refused
+89,N/A,Environmental Health,N/A,New York University,N/A,Father,N/A,N/A,N/A,Refused
+90,Karachi,Dual Masters in Public Informatics and Urban Planning,Masters,"Rutgers University, New Jersey",N/A,Family (Father and Brothers),60%,Brothers,First,Approved
+91,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+92,Algiers,Academic Intensive English,N/A,Salem University,N/A,Brother,N/A,No,N/A,Approved
+93,Karachi,Computer Science,N/A,University of South Florida (USF),N/A,N/A,Yes,Father,First,Approved
+94,N/A,Engineering Management,Masters,Indiana Institute of Technology,N/A,Uncle,N/A,Uncle,Second,Refused
+95,N/A,Health Care Management,Masters,N/A,N/A,N/A,N/A,N/A,First,Refused
+96,Karachi,Marketing,Bachelors,St. Louis University,4,Father,N/A,N/A,Second,Refused
+97,N/A,N/A,N/A,Mississippi State University,N/A,Father,100%,No,N/A,N/A
+98,N/A,MBA,Masters,Kentucky State University Frankfort,1,Parents,N/A,N/A,Second,Refused
+99,Islamabad,Business Administration and Management,Masters,Long Island University Brooklyn Campus,N/A,Father Elder Brother,N/A,Uncle,First,Refused
+100,Islamabad,Power Engineering,Masters,Illinois Institute of Technology Chicago,N/A,Father,N/A,N/A,First,Approved
+101,Islamabad,Civil Engineering,Masters,Texas Tech University,2,Mother,50%,No,Second,Approved
+102,Islamabad,Computer Science,Masters,Illinois Institute of Technology,N/A,N/A,$10k,N/A,Second,Rejected
+103,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Second,Refused
+104,,Computer Science,,University of South Florida,,,Yes,,,
+105,Karachi,Computer Science,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+106,N/A,PhD in Finance,PhD,N/A,N/A,Higher Education Commission of Pakistan,N/A,N/A,N/A,Approved
+107,Islamabad,Electrical Engineering,Masters,University of Missouri Kansas City (UMKC),3,Father,N/A,Maternal Uncle,First,Approved
+108,N/A,Biotechnology,Masters,University of Texas at San Antonio,N/A,Father,N/A,Distant Cousin,First,Approved
+109,Karachi,Mechanical Engineering with Specialization in Control Systems,Masters,N/A,N/A,N/A,N/A,Sister,First,Approved
+110,N/A,Masters,Masters,Bard College,N/A,N/A,Financial Aid Award,N/A,N/A,N/A
+111,Islamabad,Computer Science,Bachelors,Missouri State University,N/A,Father,N/A,N/A,Second,Refused
+112,N/A,Engineering Management,Masters,Westcliff Irvine,N/A,Father,N/A,N/A,Second,Refused
+113,Karachi,Computer Science,Masters,DePaul University,N/A,Parents,N/A,N/A,First,Approved
+114,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+115,N/A,Business Administration and Management,Bachelors,Midwestern State University,3,Father,N/A,N/A,3rd,Rejected
+116,Karachi,,,,,,,,,
+117,Islamabad,Biotechnology,Masters,Texas Tech University,N/A,Loan and waivers,N/A,N/A,First,Refused under 221g
+118,,,,,,,,,,
+119,Islamabad,Business Administration,Masters,George Mason University,5,N/A,N/A,Brother,First,Rejected
+120,Karachi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused,N/A
+121,Islamabad,Environmental Science,Phd,University of Idaho,2,Father,Graduate Research Assistant,N/A,First,Approved
+122,Karachi,Information Systems,Bachelors,University of Texas at Arlington,N/A,Father,Yes,N/A,First,Refused
+123,Karachi,Civil Engineering,Masters,Lamar University,4,Father,Merit Basis,N/A,First,Approved
+124,,,,,,,,,,
+125,Islamabad,Computers and Information Technology,Bachelors,Palm Beach Atlantic University,2,Father,N/A,No,Third,Rejected
+126,Karachi,Business Administration,Masters,University of New Haven,N/A,XYZ,N/A,N/A,First,Approved
+127,Karachi,Computer Science,Masters,DePaul University,N/A,Parents,N/A,N/A,First,Approved
+128,Karachi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Fourth,Rejected
+129,Munich,N/A,N/A,N/A,N/A,N/A,N/A,Uncle,Fourth,Approved
+130,Islamabad,Project Management,Masters,Northeastern University,N/A,Friend,N/A,N/A,Second,Approved
+131,Islamabad,Information Systems,Masters,Cleveland State University,3,Mother,N/A,No,First,Approved
+132,Karachi,Quantitative Risk Analysis & Management,Masters,Georgia State University,N/A,University/Father,Full-tuition waiver and GRA,N/A,First,Rejected
+133,Karachi,Business Analytics,Masters,N/A,N/A,N/A,N/A,Yes,N/A,Approved
+134,Islamabad,Health Sciences,Bachelors,"Cleveland State University, Ohio",N/A,Father,N/A,N/A,Second,N/A
+135,N/A,M. A Higher education in Academic Advising,Masters,Rowan University NJ,N/A,Father,N/A,N/A,First,Rejected
+136,N/A,Psychology,Masters,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+137,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Rejected
+138,Islamabad,Computer Science,Bachelors,University of Illinois at Chicago,N/A,Father,N/A,No,First,Approved
+139,N/A,MBA,Masters,California State Los Angeles,3,Father,N/A,Brother,First,Approved
+140,Islamabad,Civil Engineering,Graduate,University of Alabama,N/A,Father,Graduate Assistantship,N/A,First,Approved
+141,Islamabad,Electrical Engineering,Masters,"California State University, Northridge",N/A,Brother in law,Yes,N/A,First,Refused
+142,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+143,Karachi,Artificial Intelligence,Masters,"DePaul University, Chicago",N/A,N/A,N/A,N/A,First,Rejected
+144,Islamabad,Civil and Environmental Engineering,PhD,Rowan University,N/A,Graduate Assistantship/Fellowship,Yes,N/A,First,Approved
+145,Karachi,Computer Software Technology,N/A,N/A,N/A,Father,N/A,Brother,First,Refused
+146,Karachi,Mechanical Engineering,Masters,University of Dayton,1,Father,N/A,No,First,Approved
+147,N/A,PHD,PHD,N/A,N/A,N/A,HEC Scholarship,N/A,N/A,N/A
+148,,,,,,,,,,
+149,Islamabad,N/A,N/A,N/A,N/A,Self,N/A,No,First,Rejected
+150,Karachi,Data Science,,Stevens Institute of Technology,2,Self,Yes,No,First,Approved
+151,Karachi,N/A,N/A,Texas A&M University Corpus Christi,N/A,N/A,N/A,N/A,Second,Refused
+152,N/A,N/A,N/A,University of Central Florida,3,Elder Brother,N/A,N/A,Second,Refused
+153,N/A,Data Science,Masters,N/A,4,N/A,N/A,N/A,N/A,N/A
+154,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,First,Refused
+155,Islamabad,Business Administration,Bachelors,Whittier College,N/A,Father,N/A,N/A,Second,Refused
+156,Islamabad,Mechanical Engineering,Masters,University of Cincinnati,N/A,Father,$20k scholarship,N/A,First,Approved
+157,N/A,Computer Science,Masters,N/A,N/A,Father,N/A,N/A,Second,Refused
+158,N/A,General Studies,N/A,Loyola University,N/A,N/A,N/A,N/A,N/A,Approved
+159,Karachi,Engineering Management,Masters,St. Cloud State University,N/A,Self/Father,N/A,Brother,First,Refused
+160,N/A,IELI,N/A,University of North Texas,3,Brother in law and Mother,N/A,Sister,First,Refused
+161,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Husband on F2 visa,Rejected,N/A
+162,Islamabad,Information Technology,Masters,University of Cumberlands,N/A,Brother,N/A,Brother,First,Approved
+163,Islamabad,Mechanical Engineering,Bachelors,"Miami University, Oxford Ohio",2,Father,N/A,No,Second,Refused
+164,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+165,Karachi,Business Administration,Bachelors,Williamson College of Business,N/A,Father,N/A,N/A,First,Approved
+166,Islamabad,Structural Engineering,PhD,California Institute of Technology (Caltech),3,N/A,Fully Funded,N/A,First,Refused
+167,,,,,3,,,,,
+168,N/A,Cyber Security,Masters,University of Delaware,N/A,Uncle,N/A,Uncle,N/A,Refused
+169,Islamabad,Business,Bachelors,California State University,2,Father,N/A,N/A,Third,Approved
+170,Islamabad,Computer Science,Bachelors,University of Illinois at Chicago,N/A,Father,N/A,No,First,Approved
+171,Karachi,Business Analytics,Masters,N/A,N/A,N/A,N/A,Yes,N/A,Approved
+172,N/A,Mechanical Engineering,Masters,University of New Haven,N/A,N/A,Pending,N/A,N/A,N/A
+173,Karachi,Masters in Business Administration with a concentration in IT,Masters,University of the Potomac,3,Father,50%,No,First,Rejected
+174,N/A,PhD,PhD,N/A,N/A,N/A,Funded,N/A,N/A,N/A
+175,Islamabad,MBA Entrepreneurship,Masters,"Bay Atlantic University, Washington",N/A,Father,35% Annual,N/A,Third,Refused
+176,N/A,Adolescent Post Secondary and Community Literacies,PhD,Ohio State University,N/A,N/A,Fully funded with assistantship,N/A,N/A,Accepted
+177,Islamabad,N/A,N/A,N/A,4 to 5,Father,N/A,N/A,First,Refused
+178,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+179,N/A,N/A,N/A,N/A,2,N/A,N/A,N/A,N/A,N/A
+180,N/A,Computer Science,Bachelors,Central Michigan University,8,Brother,International President Scholarship,N/A,First,Rejected
+181,Karachi,Business Administration,Bachelors,University of Utah,N/A,Family,"$35,000 across 4 years",N/A,First,Rejected
+182,N/A,Masters in Business Analytics,Masters,University of Dayton,N/A,Father,N/A,Sister,Second,Rejected
+183,Karachi,Business Administration with IT concentration,Masters,University of the Potomac,3,Father,50%,No,First,Rejected
+184,Karachi,Master of Science in Business Analytics (MSBA),Masters,University of Hartford Connecticut,8,Father,$4000 from Hartford,No,First,Refused
+185,Karachi,Civil Engineering,Masters,University of Texas at Arlington,2,N/A,N/A,Brother,Second,Approved
+186,Islamabad,Master's,Master,University of Houston,N/A,University (xyz university with the collaboration of the Higher Education commission of Pakistan),N/A,N/A,First,Approved
+187,Islamabad,Business Administration,Bachelors,University of South Alabama,N/A,Father,N/A,N/A,Third,Approved
+188,Karachi,Business Analytics,Masters,Mercer University,3,Self,N/A,N/A,First,Approved
+189,N/A,MS/MBA,Bachelors,N/A,N/A,N/A,N/A,N/A,Third,N/A
+190,N/A,N/A,N/A,University of Louisiana at Monroe,N/A,N/A,90%,N/A,N/A,Refused
+191,Islamabad,Computer Science,Bachelors,University of Illinois,N/A,Father,N/A,N/A,Third,Approved
+192,Islamabad,Mechanical Engineering,Graduate,Oregon State University,1,Cousin,N/A,Cousin,First,Refused
+193,Islamabad,N/A,N/A,Depaul University,N/A,Employer,N/A,N/A,First,Refused
+194,Islamabad,N/A,Masters,Texas Tech State University,3,N/A,Yes,N/A,First,Refused
+195,Karachi,MBA,Masters,University of North Texas,1,Father,N/A,N/A,First,Refused
+196,Islamabad,,,,,,,,Second,
+197,N/A,MS Engineering,Masters,N/A,2,Uncle,N/A,No,First,Refused
+198,Karachi,MBA in Healthcare Administration,Masters,Ohio Dominican University,N/A,N/A,N/A,No,3rd,Approved
+199,Islamabad,Health Sciences,Bachelors,Texas A&M University,13,Father,N/A,Uncle,First,Approved
+200,N/A,Mechanical and Aerospace Engineering,N/A,N/A,N/A,Father,N/A,N/A,N/A,Issued
+201,Islamabad,Computer Science,N/A,University of Massachusetts Boston,N/A,Father,N/A,N/A,Second,Refused
+202,N/A,Chemistry,Bachelors,Minnesota State University Mankato,4,Father,"$7,700",N/A,First,Rejected
+203,Islamabad,N/A,N/A,Cleveland State University,N/A,Cousin,N/A,N/A,N/A,Approved
+204,,,,,,,,,,
+205,Karachi,Computer Science,Masters,DePaul University,1,N/A,N/A,No,Second,Refused
+206,Karachi,Accounting,Undergraduate,University of Nebraska-Lincoln,N/A,Uncle,N/A,Uncle,First,Approved
+207,N/A,N/A,N/A,Westcliff University,N/A,N/A,N/A,N/A,Second,Refused
+208,N/A,Transportation Engineering,Masters,University of Washington,4,Father,N/A,N/A,First,Refused
+209,Islamabad,N/A,N/A,Indiana Institute of Technology,N/A,Father,N/A,N/A,First,Approved
+210,Karachi,Data Science,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+211,N/A,Bachelors,N/A,University of Illinois at Chicago,N/A,Father,N/A,N/A,First,Refused
+212,Karachi,Finance,Masters,University of Houston,N/A,Father,Yes,N/A,First,Approved
+213,N/A,Business Administration,Bachelors,Murray State University,N/A,Father,N/A,N/A,Second,Refused
+214,,,,,,,,,,
+215,Islamabad,Electrical Engineering,N/A,N/A,N/A,Father,N/A,N/A,Second,Approved
+216,N/A,N/A,N/A,N/A,N/A,Spouse,N/A,N/A,First,Approved
+217,Islamabad,Computer Engineering,Bachelors,City University of New York,N/A,Mother's sister and her husband,N/A,Mother's sister and her husband,First,Approved
+218,Karachi,Health and Hygiene Conference,N/A,N/A,N/A,Self,N/A,Husband,First,Approved
+219,Karachi,Computer Science,Masters,DePaul University,N/A,Parents,N/A,N/A,First,Approved
+220,N/A,Bachelors,N/A,N/A,N/A,N/A,N/A,N/A,First,Approved
+221,Islamabad,BBA,Bachelors,"Westcliff University, California",N/A,Father,N/A,No,First,Approved
+222,Islamabad,Not provided,Not provided,Not provided,3,Parents,N/A,N/A,First,Rejected
+223,Islamabad,N/A,N/A,Depaul University,N/A,Employer,N/A,N/A,First,Refused
+224,N/A,N/A,N/A,N/A,N/A,Cousin,Yes,Cousin,First,Refused
+225,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+226,Islamabad,Business Administration,Bachelors,University of South Alabama,N/A,Brother,N/A,N/A,3rd,Refused
+227,N/A,Business,Bachelors,South Dakota State University,N/A,Father,N/A,Uncle,First,Rejected
+228,Islamabad,Construction Management,Masters,University of North Texas,4,Father,N/A,N/A,First,Approved
+229,Islamabad,Career Counseling,Masters,Florida State University,N/A,Uncle,Yes,No,First,Approved
+230,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Second,Refused
+231,Islamabad,Computer Science,Bachelors,University of Illinois at Chicago,N/A,Father,N/A,No,First,Approved
+232,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,First,Approved
+233,Karachi,LLM,Masters,Illinois Institute of Technology,4,Father,25-50%,No,First,Approved
+234,Karachi,Business Analytics,Masters,DePaul Chicago,N/A,Parents,N/A,VO's sister,First,Approved
+235,Islamabad,Film,Masters,Chatham University,2,Father,N/A,N/A,First,Refused
+236,Karachi,Digital Supply Chain Management,Masters,California State University Pomona,2,Father,N/A,N/A,Third,Refused
+237,Karachi,MBA,Masters,University of Maryland,N/A,Father,Assistantship,N/A,First,Approved
+238,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+239,Karachi,Computer Science,Masters,DePaul University,N/A,Parents,N/A,N/A,First,Approved
+240,N/A,TESOL (Teaching English to the speakers of other languages),N/A,Adelphi University New York,N/A,N/A,N/A,N/A,Second,Rejected
+241,Islamabad,Computer Science,Bachelors,Adelphi University,N/A,N/A,N/A,N/A,Second,Refused
+242,Islamabad,Computer Sciences,Masters,University of Arizona/University of Pacific,2,Father,N/A,N/A,Second,Approved
+243,Islamabad,Computer Science,Masters,XYZ University,3,Brother,N/A,No,First,Refused
+244,Karachi,Economics and Business Administration,Undergraduate,N/A,10,N/A,N/A,N/A,Second,Rejected
+245,Islamabad,Computer Science,Bachelors,Minnesota State University Mankato,N/A,Father,45%,N/A,First,Approved
+246,Islamabad,Business Administration,Bachelors,DePaul University,N/A,Cousin's Family,N/A,N/A,First,Approved
+247,Islamabad,Computer Science,Masters,RU,6,Self,N/A,N/A,First,Rejected
+248,Karachi,Health Care Administration,Masters,"University of Potomac, Virginia",1,Aunt,N/A,Aunt,First,Refused
+249,Islamabad,Nonprofit Administration and Social Entrepreneurship,Masters,University of Michigan Flint,1,Uncle,N/A,N/A,First,Refused
+250,Islamabad,Business/Commerce,Bachelors,University of Wisconsin Milwaukee,3,Father,N/A,No,First,Refused
+251,,Business Analytics,,,,,,,,
+252,,,,,,,,,,
+253,,Masters in Computer Science,,,,,,,,
+254,Islamabad,Computer Science,Bachelors,Rhodes College,20,Father,40k scholarship,N/A,First,Approved
+255,Karachi,Computer Science,Masters,Maharishi International University,N/A,Self,N/A,N/A,Second,Refused
+256,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+257,,LLM,Masters,,,,Fully/Partially Funded,,,
+258,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+259,Karachi,N/A,N/A,Texas A&M University Corpus Christi,N/A,N/A,N/A,N/A,Second,Refused
+260,Karachi,Business Administration,Bachelors,Gannon University,N/A,Uncle,N/A,N/A,Second,Refused
+261,Karachi,Masters in Business Administration,Masters,University of Bridgeport,3,Husband,Yes,N/A,First,Refused
+262,Islamabad,Computing and Information Sciences,PhD,N/A,N/A,Fully funded scholarship,Fully Funded,N/A,First,Refused under 221g
+263,N/A,N/A,Undergraduate,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+264,Islamabad,M.B.A (MIS concentration),Masters,Long Island University Brooklyn,N/A,Parents/Grandfather,Yes,N/A,First,Refused
+265,Islamabad,Research Scholar,,University of Florida,,,,,Second,Refused
+266,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+267,Islamabad,BSCS,Bachelors,New York University,N/A,Father,N/A,N/A,First,Approved
+268,Islamabad,Computer Science,Bachelors,"Queens College, City University of New York (CUNY)",3,Mother,N/A,Extended Family,First,Refused
+269,Karachi,Computer Science,Bachelors,Washington State University,5,Father,N/A,Brother,First,Rejected
+270,N/A,MS Business Analytics,Masters,Brandeis University,N/A,N/A,N/A,N/A,First,Refused
+271,,,,,,,,,,
+272,Islamabad,Business Analytics,Masters,Hofstra University,4,Parents,N/A,N/A,First,Refused
+273,Islamabad,Computer and Information Sciences,Masters,"Adelphi University, Garden City",1,Father,N/A,Brothers,Second,Refused
+274,N/A,Nutrition Psychology,N/A,Illinois State University,N/A,N/A,N/A,N/A,Second,N/A
+275,Islamabad,Computer Science,Bachelors,University of Illinois,N/A,Father,N/A,N/A,Third,Approved
+276,N/A,N/A,N/A,Parsons School of Design,N/A,US Sponsors,N/A,N/A,N/A,N/A
+277,Islamabad,Peace and Conflict Studies,Masters,"Rutgers University, Newark",3,Father,N/A,N/A,First,Refused
+278,N/A,PhD Chemistry,PhD,University of Tulsa,N/A,N/A,Research Assistantship,N/A,N/A,N/A
+279,N/A,Business Administration,Bachelors,Murray State University,N/A,Father,N/A,N/A,Second,Refused
+280,Karachi,Regulatory Affairs,Masters,Northeastern University,N/A,Mother,CPs Scholars Award,No,First,Approved
+281,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,Friend,First,Refused
+282,Islamabad,Career Counseling,Masters,Florida State University,N/A,Uncle,Yes,No,First,Approved
+283,Islamabad,Computer Science,Bachelors,Minnesota State University Mankato,N/A,Father,45%,N/A,First,Approved
+284,N/A,Industrial Engineering,N/A,"Southern Illinois University, Edwardsville",2,N/A,$15000 for two years,N/A,N/A,N/A
+285,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+286,N/A,Masters,Masters,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+287,Karachi,Business Analytics,Specialist,University of North Texas,2,Father,N/A,N/A,First,Approved
+288,N/A,Physics,PhD,Texas Tech University,N/A,N/A,N/A,N/A,N/A,Administrative Processing (221g)
+289,N/A,N/A,N/A,N/A,N/A,Self,N/A,Wife,First,Refused
+290,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Second,221g
+291,N/A,PhD,PhD,University of Kentucky Lexington,8,N/A,N/A,N/A,N/A,N/A
+292,Karachi,Computer Science,Masters,University of Bridgeport,2,N/A,Yes,N/A,First,Refused
+293,Islamabad,Masters,Masters,N/A,N/A,Husband,N/A,N/A,First,Refused
+294,Karachi,Masters of Professional Accountancy,Masters,University of California Davis,N/A,Father,N/A,Grandfather,First,Approved
+295,N/A,MS Finance,Masters,Illinois Institute of Technology,N/A,Father,$7000 per semester,N/A,Second,Refused
+296,N/A,Cybersecurity,N/A,N/A,N/A,Self,N/A,N/A,N/A,Rejected
+297,Islamabad,MSCS,Masters,University of Alabama at Birmingham,N/A,First cousin,N/A,Mother's nephew,First,Refused
+298,Islamabad,Medical Studies,N/A,N/A,N/A,Father,N/A,N/A,First,Approved
+299,N/A,Graduate,Masters,Bard College,N/A,N/A,Yes,N/A,N/A,N/A
+300,N/A,N/A,N/A,N/A,N/A,N/A,Yes,N/A,N/A,N/A
+301,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,221(g) Administrative Processing
+302,Islamabad,Computer Sciences,Masters,The George Washington University,N/A,Father,N/A,No,First,Refused
+303,N/A,Computer Science,Bachelors,University of Central Florida,N/A,N/A,N/A,N/A,First,Refused
+304,N/A,N/A,N/A,Union College,10,Parents,Yes,"Uncle, Aunts",First,Approved
+305,N/A,Energy Systems,Masters,Illinois Institute of Technology,N/A,Father,N/A,N/A,First,Approved
+306,,MSCS,,,,,,,,
+307,Islamabad,Nutrition in Psychology,Masters,Illinois State University,3,Mother,N/A,N/A,First,Refused
+308,Karachi,Computer Science,Bachelors,Tidewater Community College,1,Uncle and Aunt,N/A,N/A,First,Rejected
+309,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Second,Refused
+310,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+311,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+312,UAE,Training Session for Project Management Professional,N/A,N/A,N/A,N/A,N/A,N/A,First,Approved
+313,N/A,MBA,Masters,University of Notre Dame,N/A,N/A,N/A,N/A,N/A,N/A
+314,Islamabad,N/A,Masters,University of New Haven,4,Father,N/A,N/A,First,Refused
+315,Islamabad,Engineering Management,Masters,St. Cloud State University,N/A,N/A,N/A,No,First,Approved
+316,Islamabad,Computer Science,Masters,Florida State University,N/A,Brother,N/A,Brother,First,Rejected
+317,Islamabad,Business,Bachelors,"South Dakota State University, Brookings",1,Father,N/A,No,First,Refused
+318,Karachi,Computer Science,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+319,Islamabad,Computer Programming,Masters,Maharishi International University,N/A,Self/Father,N/A,No,First,Refused
+320,Islamabad,Not specified,Masters,N/A,3,Self,N/A,No,First,Refused
+321,N/A,Computer Science,Bachelors,N/A,N/A,Father,N/A,N/A,Second,Refused
+322,Karachi,Business Management,Bachelors,N/A,N/A,Father,N/A,N/A,Second,Refused
+323,N/A,N/A,N/A,N/A,N/A,Wife,N/A,Husband,N/A,N/A
+324,Karachi,Computer Science,Masters,Maharishi International University,2,Self,N/A,N/A,First,Rejected
+325,Karachi,Cinematography and Film/Video Production,Bachelors,University of Missouri-Kansas City,N/A,Father,N/A,N/A,First,Approved
+326,Islamabad,Computer Science,BSc,Western Illinois University,,Father,Nearly equal to 50% of tuition and fees,,First,Refused
+327,Islamabad,Physics,PhD,Oklahoma State University,N/A,N/A,Fully funded,No,Second,Approved
+328,Islamabad,Computer Science,Bachelors,Tennessee Tech University,7,Father,N/A,N/A,First,Refused
+329,Karachi,Public Health,Masters,University of New Haven,3,Father,N/A,N/A,First,Approved
+330,Islamabad,MBA,Masters,N/A,4,Father,N/A,N/A,First,Approved
+331,,PhD,,,,,Yes,,,
+332,N/A,Business Administration and Management,Bachelors,"Troy University, Alabama",N/A,Father,N/A,No,Second,Refused
+333,Karachi,Information Technology,Masters,Gannon University,1,N/A,N/A,N/A,First,Refused
+334,,Doctoral,PhD,Oregon State University,,,,,,
+335,Ankara,Business Administration,Bachelors,N/A,2,Parents/Uncle,Yes,Uncertain,Second,Approved
+336,,,,,,,,,,
+337,Karachi,Observership,Medical Graduate,N/A,N/A,Father,N/A,N/A,First,Approved
+338,Islamabad,Public Administration,Masters,LU (Liberty University),3,Father,Yes,No,First,Refused
+339,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+340,N/A,N/A,N/A,Columbia University,5,N/A,N/A,N/A,N/A,N/A
+341,N/A,MBA,Masters,N/A,2,Father In Law,N/A,N/A,First,Rejected
+342,,,,,,,,,,
+343,N/A,Master in IS,Masters,Rider University,2,Father,N/A,N/A,First,Rejected
+344,N/A,Masters of Computer Science with Information and Communication Technology concentration,Masters,Old Dominion University,5,Uncle,N/A,Brother-in-law,First,Refused
+345,N/A,MBA,N/A,N/A,2,Father In Law,N/A,N/A,First,Rejected
+346,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Second,Rejected
+347,Karachi,Industrial Engineering,Masters,"Texas A&M University, College Station",N/A,Parents,N/A,Sister,First,Approved
+348,Islamabad,Criminal Justice and Law Enforcement Administration,Masters,University of North Alabama,N/A,N/A,N/A,N/A,N/A,Approved
+349,Karachi,Industrial Engineering,Masters,"Texas A&M University, College Station",1,Parents,N/A,Sister,First,Approved
+350,Islamabad,Chemistry,PhD,Boston University,N/A,N/A,Fully funded,N/A,First,Approved
+351,Karachi,MBA in Health Care Administration,Masters,Lamar University,N/A,Father,60%,N/A,First,Refused
+352,Karachi,Technology Management,Masters,University of Massachusetts Dartmouth,N/A,N/A,N/A,N/A,First,Refused
+353,Islamabad,Ph.D.,Master's,N/A,N/A,N/A,Yes,N/A,Twice,Refused
+354,Karachi,Business Analytics,Masters,DePaul University,N/A,Father,Yes,Brother,First,Approved
+355,N/A,Computer Science,Bachelors,Wright State University,3,Mother,$28k,No,First,Rejected
+356,N/A,Engineering Management,Masters,St. Cloud State University,4,Brother,N/A,N/A,First,Refused
+357,Islamabad,Business Analytics,Masters,University of Central Oklahoma,N/A,Father,Partial,Brother-in-law,Second,Approved
+358,,Computer Science,,Massachusetts Institute of Technology,,,,,,
+359,N/A,N/A,Bachelors,N/A,2,Uncle,14kusd per year,N/A,Second,Refused
+360,N/A,Computer Science/Computer Engineering,Bachelors,Wichita State University/University of Kansas,N/A,N/A,N/A,N/A,N/A,N/A
+361,Islamabad,Doctorate in Business Administration,PhD,"Westclift University, Irvine California",N/A,Self/Father,N/A,N/A,First,Refused
+362,Islamabad,Mechanical Engineering,Masters,University of Cincinnati,N/A,Father,$20k scholarship,N/A,First,Approved
+363,Islamabad,Civil Engineering,Masters,Texas Tech University,4,Father,N/A,N/A,Fourth,Approved
+364,Islamabad,HR Management,Masters,Northeastern University,3,Father,N/A,Brother,First,Approved
+365,N/A,MCS,Masters,Cleveland State University,N/A,Self,N/A,N/A,First,Rejected
+366,Karachi,MBA,Masters,Lamar University,N/A,Father,N/A,N/A,First,Rejected
+367,Islamabad,Business Administration and Management,Bachelors,Missouri State University,2,Father,N/A,N/A,Second,Rejected
+368,,,,,,,,,,
+369,Karachi,Electrical Engineering,Masters,N/A,N/A,Father,Yes,No,First,Approved
+370,N/A,MSBA,N/A,University of Rochester,4,Father,Yes,Mother's sister,N/A,Approved
+371,Islamabad,N/A,N/A,N/A,N/A,Spouse,N/A,N/A,N/A,Approved
+372,Islamabad,N/A,N/A,Texas A&M University,N/A,Husband's cousin,N/A,N/A,N/A,Approved
+373,Islamabad,Construction Management,Masters,University of North Texas,4,Father,N/A,N/A,First,Approved
+374,N/A,MBA,Masters,Adelphi University,N/A,Father,N/A,N/A,First,Refused
+375,N/A,MS(IT),Masters,Westcliff,2,N/A,N/A,N/A,First,Refused
+376,Karachi,Computer Science,Masters,University of Dayton,2,Father,Yes,N/A,First,Rejected
+377,,,,,,,,,,
+378,Karachi,Computer Science,Masters,DePaul University,N/A,Parents,N/A,N/A,First,Approved
+379,Islamabad,Communication Studies,Masters,Arizona State University,3,Paternal Uncle,N/A,N/A,First,Refused
+380,Karachi,Computer Science,Masters,N/A,N/A,N/A,N/A,N/A,First,Refused
+381,,,,,,,,,,Refused for administrative processing
+382,N/A,J1,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+383,Islamabad,Electrical and Computer Engineering,N/A,University of Texas at Austin,N/A,Father,N/A,N/A,First,Approved
+384,Islamabad,Business Administration and Management,Masters,Webster University,N/A,Father,N/A,No,Second,Refused
+385,Karachi,Student F1 Visa,N/A,N/A,N/A,N/A,N/A,N/A,Refused,N/A
+386,Karachi,Distributed Systems and Computational Hard Problems Solving,Masters,Penn State,2,N/A,Full Tuition,N/A,First,Approved
+387,Karachi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+388,Karachi,Computer Science,Masters,Westcliff University,N/A,Father,N/A,N/A,First,Refused
+389,N/A,N/A,N/A,N/A,N/A,N/A,Full,N/A,First,Refused
+390,Islamabad,Environmental Science,Phd,University of Idaho,2,Father,Graduate Research Assistant,N/A,First,Approved
+391,N/A,Computer Sciences,Bachelors,University of the Pacific Stockton,N/A,Father,N/A,"Paternal Uncle, Grandparents",Second,Refused
+392,Karachi,MS Engineering (Electrical),Masters,Saint Louis,N/A,Global Graduate scholarship program,$7000,N/A,First,Rejected
+393,N/A,Economics,N/A,Illinois State University,3,N/A,N/A,N/A,N/A,Approved
+394,Islamabad,Software Engineering,Masters,N/A,17,Father,$41k yearly,N/A,Second,Refused
+395,Karachi,Business Administration and Management,Bachelors,Minnesota State University,3,N/A,N/A,N/A,First,Refused
+396,Islamabad,MBA with Healthcare Management Specialization,Masters,Concordia University Chicago,N/A,Uncle,N/A,N/A,First,Refused
+397,Islamabad,Health Sciences,Bachelors,Texas A&M University,13,Father,N/A,Uncle,First,Approved
+398,Islamabad,Construction Management,Masters,University of North Texas,4,Father,N/A,N/A,First,Approved
+399,Karachi,Computer Science,Bachelors,Queens College NY,1,N/A,N/A,N/A,Second,N/A
+400,N/A,PhD,PhD,N/A,N/A,Father,N/A,Brother,N/A,Refused
+401,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Second,Refused
+402,N/A,N/A,N/A,South Dakota State University,N/A,N/A,N/A,N/A,N/A,N/A
+403,N/A,Economics,N/A,Illinois State University,3,N/A,N/A,N/A,N/A,Approved
+404,Islamabad,Computer Science,Bachelors,University of Southern Mississippi,3,Father,100%,No,First,Approved
+405,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+406,Italy,Masters Degree,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+407,Islamabad,Information Systems,N/A,Adelphi University,N/A,Mother,N/A,N/A,First,Refused
+408,Karachi,Business Analytics,N/A,University of Massachusetts Boston,3,Father,N/A,N/A,N/A,N/A
+409,N/A,MS Finance,Masters,"Webster University, St. Louis MO",N/A,Father,N/A,N/A,First,Approved
+410,Islamabad,Exercise Science,Bachelors,Central Michigan University,N/A,Father,50%,N/A,First,Refused
+411,Islamabad,Electrical Engineering,Masters,University of Missouri Kansas City (UMKC),3,Father,N/A,Maternal Uncle,First,Approved
+412,Islamabad,Engineering Education,PhD,State University of New York at Buffalo,N/A,N/A,Fully funded,N/A,First,Approved
+413,Karachi,Computer Science,N/A,University of South Florida,N/A,N/A,Yes,Father,First,Approved
+414,Islamabad,Resource Economics and Policy,Masters,University of Maine,1,N/A,Graduate Assistantship,No,Second,Approved
+415,Karachi,MS in Information Technology,Masters,Gannon University,N/A,Father,N/A,N/A,Second,Refused
+416,Islamabad,Computer Science,Bachelors,University of Massachusetts Amherst,16,Father,Yes,N/A,First,Approved
+417,Karachi,Business Analytics,Masters,DePaul University - Chicago,3,Father,N/A,N/A,First,Approved
+418,Islamabad,Business Administration,Bachelors,DePaul University,N/A,Relative,N/A,N/A,First,Approved
+419,Karachi,Computer Science,Masters,Roosevelt University Chicago,9,Uncle,No,Uncles,First,Approved
+420,Karachi,Computer Science,Masters,DePaul University,N/A,Parents,N/A,N/A,First,Approved
+421,Islamabad,MBA,Masters,N/A,4,Father,N/A,N/A,First,Approved
+422,,,,,,,,,,
+423,Islamabad,Electrical and Computer Engineering,Bachelors,University of Arizona,N/A,Father,N/A,No,Second,Approved
+424,Islamabad,N/A,N/A,N/A,4 to 5,Father,N/A,N/A,First,Refused
+425,N/A,MBA,Masters,California State Los Angeles,3,Father,N/A,Brother,First,Approved
+426,N/A,Energy Systems,Post-Grad,University of San Francisco,N/A,Self,$10k,N/A,N/A,N/A
+427,,,,,,,,,,Refused
+428,N/A,MBA Business Analytics,Masters,Wilmington University,N/A,Sister,N/A,Sister,First,Rejected
+429,Karachi,Data Science,Masters,N/A,N/A,Self,N/A,No,Second,Approved
+430,N/A,Information Technology,Bachelors,N/A,4,Father,Yes,N/A,Second,Refused
+431,Islamabad,Computer Science,Undergraduate,University of Southern California,N/A,Family,Partial,Aunt,First,Approved
+432,Karachi,Civil Engineering,Phd,George Mason University,N/A,Brother,Yes,No,First,Rejected
+433,N/A,Civil Engineering,PhD,University of Kansas,N/A,N/A,Yes,N/A,N/A,Approved
+434,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+435,Islamabad,Exchange visitor research,PhD,University of Michigan Ann Arbor,N/A,HEC,Fully funded,Brother,First,Approved
+436,N/A,N/A,N/A,N/A,N/A,Family Friend,N/A,N/A,Second,Refused
+437,N/A,Engineering Management,Masters,Central Michigan University,4,Father,N/A,N/A,Third,Refused
+438,Karachi,Masters,Masters,Full Sail University,3,Father,N/A,N/A,First,Refused
+439,N/A,Project Management with Business Analytics Concentration,Masters,"Northeastern University, Boston",1,Father,N/A,N/A,Second,Approved
+440,Islamabad,Mechanical Engineering,Bachelors,"Miami University, Oxford Ohio",2,Father,N/A,N/A,Second,Refused
+441,N/A,Project Management with concentration in Business Analytics,Masters,"Northeastern University, Boston",1,Father,N/A,N/A,Second,Approved
+442,Islamabad,MBA,Masters,San Francisco Bay University,2,Uncle and Father,75%,Father-in-law,First,Rejected
+443,N/A,Structural Engineering,Masters,University of Texas at Austin,N/A,Uncle,No,Uncle,N/A,N/A
+444,,Mechanical Engineering,,,,,,,,
+445,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+446,Islamabad,Nutrition and Dietetics,Bachelors,Southeast Missouri State University (SEMO),3,Mother,N/A,None,First,Approved
+447,Islamabad,Big Data Analytics,Masters,Bay Atlantic University Washington DC,2,N/A,N/A,N/A,First,Refused
+448,N/A,PhD,PhD,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+449,Islamabad,Structural Engineering,Masters,Illinois Institute of Technology Chicago,6,Father,40%,No,First,Approved
+450,Los Angeles,Fashion Design and Merchandise,Diploma,Los Angeles Community College,N/A,Husband,N/A,N/A,First,Rejected
+451,Islamabad,Information Technology,Masters,University of Cumberlands,N/A,Brother,N/A,Brother,First,Approved
+452,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+453,Islamabad,Business,Bachelors,California State University,2,Father,N/A,N/A,Third,Approved
+454,N/A,MBA,Masters,University of North Carolina at Chapel Hill,N/A,N/A,N/A,N/A,N/A,N/A
+455,N/A,N/A,N/A,N/A,N/A,Father,N/A,N/A,First,Refused
+456,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+457,N/A,Engineering,Masters,Texas A&M,3,Brother,N/A,"Brother, Sister-in-law, Mother",First,Refused
+458,,,,,,,,,,
+459,Europe,,,,,,,,,
+460,Ankara,Business Administration,Bachelors,N/A,2,Parents/Uncle,Yes,Cousin,Second,Approved
+461,Islamabad,Biomedical Engineering,PhD,The Ohio State University,1,Fully funded,N/A,N/A,First,Approved
+462,Karachi,MS Marketing with concentration of Data mining,Masters,University of South Florida (USF),N/A,N/A,N/A,N/A,Third,Refused
+463,Islamabad,Business Analytics,Masters,University of Dallas,N/A,N/A,N/A,N/A,Second,Refused
+464,Karachi,Civil Engineering,Masters,Lamar University,4,Father,Merit Basis,N/A,First,Approved
+465,Islamabad,International Business,Bachelors,Minnesota State University Mankato,3,Mother,N/A,N/A,First,Refused
+466,N/A,MBA with concentration in Business Analytics,Masters,University of Dallas,5,Sister,N/A,Sister,First,Refused
+467,Islam Embassy,International Business,N/A,Minnesota State University,N/A,Father,N/A,N/A,First,Refused
+468,Islamabad,N/A,N/A,University of Wisconsin Milwaukee,N/A,Father,N/A,N/A,Second,Refused
+469,Islamabad,N/A,N/A,N/A,N/A,Uncles,60%,N/A,Second,N/A
+470,Karachi,Industrial Engineering,Masters,University of Houston,1,Self/Father,N/A,No,First,Approved
+471,Karachi,MBA,Masters,Not provided,N/A,Financial Aid/Student Loan,Financial Aid/Student Loan,No,First,Approved
+472,Karachi,Geology,Masters,California State University Fresno,1,Father,N/A,N/A,First,Rejected
+473,N/A,Energy Management,Masters,New York Institute of Technology,N/A,N/A,N/A,N/A,First,Refused
+474,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+475,Islamabad,MBA,Masters,New York Institute of Technology,3,Father,N/A,N/A,First,Refused
+476,Karachi,Computer and Information Science,Bachelors,N/A,N/A,Brother,N/A,N/A,First,Refused
+477,Karachi,Data Sciences,Masters,XYZ University,N/A,N/A,N/A,N/A,Second,Refused
+478,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+479,N/A,N/A,N/A,N/A,N/A,Spouse,N/A,N/A,First,Approved
+480,Karachi,N/A,N/A,N/A,3,N/A,N/A,N/A,Second,Refused
+481,N/A,Information Technology,Bachelors,N/A,4,Father,Yes,N/A,Second,Refused
+482,Dhaka,Conference,N/A,George Mason University,N/A,N/A,Fully Funded,N/A,First,Approved
+483,,,,,,,,,,
+484,Islamabad,Business,Bachelors,Murray State University,1,Father,N/A,N/A,First,Refused
+485,Islamabad,Computer Science,Bachelors,Minnesota State University Mankato,N/A,Father,45%,N/A,First,Approved
+486,,,,,,,,,,
+487,Karachi,Engineering Management,Masters,St. Cloud State University,N/A,Self/Father,N/A,Brother,First,Refused
+488,Islamabad,Big Data Analytics,Masters,Bay Atlantic University Washington DC,2,Sibling,N/A,N/A,First,Refused
+489,Islamabad,Management Information Systems,Masters,University of Illinois Springfield,2,Father,N/A,N/A,First,Refused
+490,Islamabad,Information Systems,Masters,Northeastern University,N/A,N/A,N/A,N/A,Second,N/A
+491,N/A,Civil Engineering,Masters,San Francisco State University,N/A,Father,N/A,N/A,First,Refused
+492,,,,,,,,,,
+493,N/A,Chemical and Biomolecular Engineering,Ph.D.,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+494,,Public Policy and Management,Masters,Carnegie Mellon University,,,40%,,,
+495,Islamabad,Computer Sciences,Undergraduate,DePaul University,2,Father,52%,No,First,Rejected
+496,Karachi,Computer Science,Masters,DePaul University,N/A,Parents,N/A,N/A,First,Approved
+497,N/A,Civil Engineering,N/A,University of Illinois Urbana Champaign,2,N/A,N/A,N/A,Second,Refused
+498,Islamabad,Differential Equations,N/A,Harvard,N/A,Self,N/A,N/A,First,Approved
+499,Islamabad,International Business,Bachelors,Minnesota State University Mankato,3,Father,N/A,N/A,First,Refused
+500,N/A,Engineering Management,N/A,N/A,N/A,Father,N/A,N/A,First,Refused
+501,,,,,,,,,,
+502,Karachi,Computer Science,Community College,Highline College,N/A,Self,N/A,N/A,First,Rejected
+503,Islamabad,Business,Bachelors,University of Illinois Carbondale,2,Father,N/A,N/A,First,Refused
+504,N/A,Business,N/A,Hult International Business School,N/A,N/A,N/A,N/A,First,Approved
+505,,,,,,,,,,
+506,Karachi,Computer Science,Masters,Maharishi International University Fairfield,2,N/A,N/A,N/A,First,Refused
+507,Karachi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+508,Karachi,N/A,N/A,N/A,N/A,N/A,N/A,No,First,Refused
+509,Karachi,Business Analytics,Masters,Mercer University,1,Father,N/A,No,First,Approved
+510,Karachi,Leadership and Management,N/A,Louisiana Tech University,3,N/A,N/A,N/A,First,Refused
+511,N/A,Business Analytics,Masters,University of South Florida,N/A,Father,N/A,N/A,N/A,Approved
+512,Islamabad,Software Engineering,Bachelors,Saint Cloud State University,N/A,Father,Yes,N/A,First,Refused
+513,N/A,N/A,N/A,Mississippi State University,N/A,Father,100%,No,N/A,N/A
+514,Islamabad,Environmental Studies,Masters,Lamar University,N/A,Father,N/A,N/A,First,Refused
+515,Karachi,Civil Engineering,Masters,"University of Dayton, Ohio",5,Father,N/A,N/A,First,Approved
+516,Islamabad,Computer Science,Masters,N/A,N/A,N/A,N/A,N/A,Second,Refused
+517,Islamabad,Biomedical Engineering,PhD,The Ohio State University,1,Research Associate Position,Fully Funded,N/A,First,Approved
+518,N/A,BBA (Bachelor in Business Administration),Bachelors,Iqra University,N/A,N/A,N/A,N/A,First,Refused
+519,Islamabad,MBA Entrepreneurship,Masters,"Bay Atlantic University, Washington",N/A,Father,35% Annual,No,Third,Refused
+520,Karachi,Masters,Masters,N/A,1,University,100%,N/A,Second,Refused
+521,Islamabad,Physics,PhD,Purdue University,N/A,N/A,Fully funded,No,First,Refused
+522,N/A,N/A,N/A,Drexel University,7,Father,N/A,No,First,Approved
+523,Islamabad,Computer Science Engineering,PhD,University of North Texas Denton,N/A,N/A,N/A,N/A,First,Approved
+524,N/A,N/A,N/A,N/A,N/A,N/A,24K USD,N/A,N/A,Refused
+525,"Ankara, Türkiye",Business Administration,Bachelors,North American University,N/A,Parents,"$17,000",N/A,First,Refused
+526,N/A,Engineering Management,Masters,"University of the Pacific, University of South Carolina, University of South Florida, University of Dayton",4,Father,N/A,N/A,First,Accepted
+527,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+528,Islamabad,xyz program,Masters,"Pace University, New York",3,Father,$6000 Annual Scholarship,No,Second,Approved
+529,Islamabad,Food Technology and Processing,Bachelors,Minnesota State University Mankato,N/A,Mother,N/A,N/A,First,Refused
+530,N/A,PhD in Immunology,PhD,N/A,N/A,University,Fully funded,N/A,N/A,Administrative processing
+531,Karachi,Criminal Justice,N/A,Western Michigan University,N/A,Uncle,N/A,Uncle,Second,Refused
+532,,,,,,,,,,
+533,Karachi,MS in Computer Science,Masters,Tulane University,9,Scholarship and Student Loan,Yes,N/A,First,Approved
+534,Karachi,Master of Science in Supply Chain Management,Masters,N/A,N/A,Father,N/A,N/A,First,Refused
+535,N/A,Business Analytics,Masters,Mercer University,N/A,Father,N/A,N/A,N/A,Approved
+536,Islamabad,Business Administration,N/A,N/A,N/A,Father,N/A,N/A,First,Rejected
+537,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Administrative processing
+538,N/A,International Business,Bachelors,Ohio University,2,Father,N/A,N/A,Second,Refused
+539,N/A,Masters,Masters,Bard College,N/A,N/A,Financial Aid,N/A,N/A,N/A
+540,Sydney,Visitor Visa,N/A,N/A,N/A,N/A,N/A,N/A,Twice,Rejected
+541,Islamabad,Doctorate,Phd,N/A,N/A,N/A,N/A,N/A,First,Refused with Administrative Process
+542,Karachi,Economics,Undergraduate (Bachelors),"Miami University in Oxford, Ohio",N/A,Parents,Automatic consideration based on academics and extracurricular activities,N/A,First,Approved
+543,N/A,Civil Engineering,Masters,San Francisco State University,N/A,Father,N/A,N/A,First,Refused
+544,N/A,Ph.D.,Ph.D.,N/A,N/A,N/A,Fully funded,N/A,N/A,N/A
+545,N/A,Physics,Bachelors,University of Wisconsin Milwaukee,2,Father,N/A,N/A,First,Rejected
+546,Islamabad,Electrical Engineering,N/A,N/A,N/A,Father,N/A,N/A,Second,Approved
+547,N/A,N/A,Bachelors,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+548,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thrice,Refused
+549,Islamabad,Business,Bachelors,California State University,2,Father,N/A,N/A,Third,Approved
+550,N/A,Electrical and Electronics Engineering,Masters,Lamar University,N/A,N/A,N/A,N/A,N/A,Refused
+551,N/A,Mechanical Engineering,Masters,University of Texas Arlington,N/A,N/A,N/A,N/A,N/A,N/A
+552,Islamabad,Computer Science,N/A,Saint Louis University,2,Parents,Yes,Uncle,First,Refused
+553,N/A,Mechanical Engineering,Masters,University of New Haven,N/A,N/A,Pending,N/A,N/A,N/A
+554,,,,,,,,,,
+555,Islamabad,Masters of Business Administration and Management,Masters,Oklahoma City University,N/A,Parents,N/A,N/A,Third,Refused
+556,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+557,Islamabad,Doctorate in Business Administration,PhD,Westclift University Irvine Campus California,N/A,Self/Father,N/A,N/A,First,Refused
+558,N/A,Computer Science,Bachelors,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+559,Islamabad,Business Administration,Bachelors,DePaul University,N/A,Relative,N/A,N/A,First,Approved
+560,Islamabad,BS Nursing,Bachelors,Pace University,N/A,Father,N/A,N/A,Third,Refused
+561,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+562,Islamabad,Business Management,Bachelors,N/A,N/A,Uncle,N/A,N/A,First,Refused
+563,Karachi,MBA,Masters,Top 10 MBA School (Name not provided),3,Private Loan,Yes,N/A,First,Approved
+564,Karachi,Computer Science,Masters,Maharishi International University,N/A,Self/University,Financial Award,N/A,First,Refused
+565,Islamabad,Computer Science,Bachelors,San Francisco State University,5,Father,N/A,N/A,First,Refused
+566,Karachi,Civil Engineering,Masters,University of Central Florida,N/A,Father,Research Assistantship,No,First,Approved
+567,N/A,Finance,Masters,N/A,3,N/A,N/A,N/A,N/A,N/A
+568,Islamabad,N/A,N/A,Cleveland State University,N/A,Father,Yes,N/A,Second,Rejected
+569,Karachi,Electrical and Computer Engineering,Masters,Illinois Institute of Technology,4,N/A,N/A,N/A,First,Refused
+570,Islamabad,Management Sciences and Quantitative Methods,Masters,University of Wisconsin,6,N/A,N/A,No,Second,Rejected
+571,Karachi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Previously refused,N/A
+572,,,,,,,,,,
+573,Karachi,Business Analytics,Bachelors,DePaul University,5,Father,$5000,No,Second,Rejected
+574,Islamabad,BS CIS,Bachelors,Eastern Illinois University,1,Father,Partial,N/A,First,Rejected
+575,N/A,Mechanical Engineering,Masters,Georgia Southern University,1,Self,Yes,Friend,First,Rejected
+576,N/A,N/A,N/A,Cleveland State University,N/A,N/A,N/A,N/A,N/A,Rejected
+577,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,Friend,First,Refused
+578,N/A,N/A,N/A,University of Alabama Huntsville,N/A,Father,N/A,N/A,First,Refused
+579,Islamabad,Food Technology and Processing,N/A,Minnesota State University Mankato,N/A,Mother,N/A,N/A,First,Refused
+580,Islamabad,Computer Science,Bachelors,University of Illinois at Chicago,N/A,Father,N/A,No,First,Approved
+581,Islamabad,Business Analytics,Masters,Mercer University,N/A,Self,N/A,N/A,First,Refused
+582,Islamabad,Structural Engineering,PhD,California Institute of Technology (Caltech),3,N/A,Fully funded,N/A,First,Refused
+583,Islamabad,Computer Science,Bachelors,Rhodes College,20,Father,40k scholarship,N/A,First,Approved
+584,N/A,IELI,N/A,University of North Texas,3,Brother in law and Mother,N/A,Sister,First,Refused
+585,Islamabad,Computer Science,Bachelors,University of Illinois at Chicago,3,Father,N/A,N/A,First,Refused
+586,Karachi,Public Affairs,Masters,"Indiana University, Bloomington",N/A,N/A,Yes,N/A,N/A,Approved
+587,,,,,,,,,,
+588,N/A,N/A,Masters,University of Illinois Urbana-Champaign,N/A,N/A,Tuition fee waiver and RA,N/A,N/A,N/A
+589,Islamabad,Software Engineering,Masters,N/A,17,Father,$41k yearly,No,First,Refused
+590,N/A,MBA,Masters,"Cornell, University of Texas Austin Mccombs, Michigan Ross",3,N/A,N/A,N/A,N/A,N/A
+591,Karachi,Economics and Business Administration,Undergraduate,N/A,10,N/A,N/A,N/A,Second,Rejected
+592,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+593,Islamabad,Business,Bachelors,California State University,2,Father,N/A,N/A,Third,Approved
+594,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+595,,PhD,,University of Florida,,,,,,
+596,N/A,Real Estate Business,N/A,Tacoma Community College,N/A,N/A,N/A,No,First,Refused
+597,N/A,N/A,N/A,N/A,N/A,Father,Yes,N/A,Second,Refused
+598,Islamabad,Not specified,Not specified,Not specified,N/A,Scholarship,Fully funded,N/A,First,Approved
+599,Karachi,F2,N/A,N/A,N/A,N/A,N/A,N/A,Second,Rejected
+600,Islamabad,MS Computer Science,Masters,N/A,N/A,Father,Yes,N/A,First,Approved
+601,Karachi,Business Administration,Masters,University of New Haven,N/A,xyz,N/A,N/A,First,Approved
+602,Islamabad,N/A,N/A,Depaul University,N/A,Employer,N/A,N/A,First,Refused
+603,Karachi,MBA in Marketing,Masters,New Mexico Highland University,N/A,Uncle,N/A,"Brother, Uncle",First,Approved
+604,Karachi,MBA,Masters,"New York Institute of Technology (NYIT), Manhattan Campus",N/A,Father,N/A,N/A,First,Rejected
+605,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+606,N/A,Graduate,Masters,Bard College,N/A,N/A,Yes,N/A,N/A,N/A
+607,N/A,N/A,Masters,N/A,N/A,Brother,Full,N/A,First,Refused
+608,Karachi,Business Administration,Bachelors,Youngstown State University,N/A,Uncle,N/A,N/A,First,Rejected
+609,N/A,Agricultural and Applied Economics,Masters,University of Illinois Urbana Champaign,3,Professor,Fully funded,N/A,N/A,Approved
+610,N/A,ESL (English as a Second Language) and Computer Science,N/A,University of Kentucky,N/A,Father,N/A,N/A,First,Refused
+611,Islamabad,Civil Engineering,Masters,University of Texas at Austin,3,Uncle,N/A,Uncle,First,Approved
+612,,,,,,,,,,
+613,Karachi,Civil Engineering,Masters,"University of Dayton, Ohio",5,Father,N/A,No,First,Approved
+614,N/A,Chemical and Biomolecular Engineering,PhD,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+615,N/A,Criminology,PhD,University of Pennsylvania,N/A,N/A,N/A,N/A,N/A,Approved
+616,N/A,Master,Masters,Saint Paul State University,1,Self,N/A,Cousin,First,Rejected
+617,,MBA with Marketing Concentration,,Wayne State University,,Uncle,,,,
+618,N/A,N/A,N/A,N/A,N/A,Spouse,N/A,Engaged to US Citizen,First,Rejected
+619,N/A,Real Estate Business,N/A,Tacoma Community College,N/A,N/A,N/A,N/A,First,Refused
+620,N/A,Business and Commerce Studies,N/A,Iowa State University,N/A,Father,N/A,N/A,N/A,Rejected
+621,Islamabad,Business Analytics,Masters,Mercer University,N/A,Self,N/A,N/A,First,Refused
+622,N/A,N/A,Bachelors,University of Kansas,N/A,Father,Yes,N/A,First,Approved
+623,N/A,Nutrition Sciences,PhD,University of Minnesota,N/A,Pak US Knowledge Corridor and University,Fully Funded,N/A,N/A,N/A
+624,Islamabad,Business,Bachelors,University of Illinois Carbondale,2,Father,N/A,N/A,First,Refused
+625,Islamabad,Ph.D. Computer Science,Ph.D.,Michigan State University,N/A,N/A,Fully Funded,N/A,First,Administrative Processing - White Slip
+626,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Administrative Processing (221g)
+627,Islamabad,Business,Bachelors,California State University,2,Father,N/A,N/A,Third,Approved
+628,N/A,Cyber Security,Associates,N/A,N/A,Father,N/A,N/A,Second,Refused
+629,N/A,MS in Industrial Engineering,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+630,N/A,N/A,N/A,N/A,N/A,Father,Yes,N/A,Second,Rejected
+631,Karachi,Masters in Business Administration,Masters,University of Bridgeport,3,Husband,Yes,N/A,First,Refused
+632,Islamabad,Humanities,PhD,Idaho State University,N/A,Fully Funded,Yes,N/A,First,Approved
+633,Islamabad,Information System,Bachelors,Adelphi University,3,Father,N/A,N/A,First,Refused
+634,Karachi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused after Administrative Processing (221g)
+635,Karachi,Business Studies,Bachelors,N/A,5,Father,N/A,N/A,First,Approved
+636,Islamabad,Differential Equations,N/A,Harvard,N/A,Self,N/A,N/A,First,Approved
+637,Karachi,Business Administration and Management,Bachelors,Minnesota State University,3,N/A,N/A,N/A,First,Refused
+638,Karachi,Computer Science,Masters,DePaul University,N/A,Parents,N/A,N/A,First,Approved
+639,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thrice,Refused
+640,N/A,Computer Science,Bachelors,University of Central Florida,N/A,N/A,N/A,N/A,First,Refused
+641,Islamabad,Mechanical Engineering,Masters,University of Texas,N/A,Father,More than half tuition fee waived off,N/A,First,"Refused under 221(g), pending completion of Administrative Process"
+642,,Biotechnology,PhD,Quaid-i-Azam University Islamabad,,,,,,
+643,N/A,Physics,Bachelors,Saginaw Valley State University,10,Uncle,50%,Uncle,First,Approved
+644,Karachi,Computer Science,Bachelors,South Dakota State University,N/A,Father,N/A,No,Second,Approved
+645,Karachi,Marketing Analytics,Masters,Pace University,1,Father,N/A,No,First,Approved
+646,Islamabad,Curriculum and Instruction in Science Education,PhD,Virginia Tech,N/A,N/A,100% assistantship,N/A,First,Approved
+647,N/A,N/A,N/A,N/A,3,N/A,N/A,N/A,N/A,N/A
+648,N/A,Management Sciences and Quantitative Methods,Masters,University of Wisconsin Milwaukee,N/A,Father,N/A,No,Third,Rejected
+649,Karachi,Computer Science,Masters,DePaul University,N/A,Parents,N/A,N/A,First,Approved
+650,,Data Science,,"['Grand Valley State University', 'University of North Texas', 'University of New Haven']",,Father,,,2,
+651,,,,,,,,,,
+652,Islamabad,International Business,Bachelors,"University of Minnesota, Mankato",N/A,Father,"$8,000",Brother,First,Approved
+653,Islamabad,Civil Engineering,Graduate,University of Alabama,N/A,Father,Graduate Assistantship,N/A,First,Approved
+654,Islamabad,Masters,N/A,N/A,N/A,Husband,N/A,N/A,Second,Refused
+655,Karachi,Business Analytics,Masters,Mercer University,1,Father,N/A,No,First,Approved
+656,,,,,,,,,,
+657,Islamabad,Postdoc,N/A,"University of Washington, Seattle",N/A,Supervisor,N/A,N/A,First,Approved
+658,Karachi,MSCS,Masters,University of Texas at Dallas,2,Father,N/A,No,First,Rejected
+659,N/A,Engineering Management,Masters,Gannon University,2,N/A,N/A,N/A,First,Refused
+660,Islamabad,MBA in Global Affairs,Masters,Bay Atlantic University,N/A,Father,N/A,N/A,First,Rejected
+661,N/A,MBA with concentration in Business Analytics,Masters,University of Dallas,5,Sister,N/A,Sister,N/A,Refused
+662,Islamabad,N/A,N/A,N/A,N/A,Father,N/A,N/A,N/A,Refused
+663,Karachi,Computer Software Technology,N/A,N/A,N/A,Father,N/A,Brother,First,Refused
+664,Islamabad,PhD,PhD,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+665,Islamabad,Civil Engineering,Masters,Texas Tech University,2,Mother,50%,No,Second,Approved
+666,Islamabad,Psychology,PhD,N/A,N/A,N/A,N/A,N/A,First,Approved
+667,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+668,Karachi,Computer Science,Bachelors,Georgia State University,N/A,N/A,Campus Atlanta Scholarship (50% or 100% waiver),N/A,First,Approved
+669,N/A,MS Project Management,Masters,Boston University,N/A,Father,N/A,N/A,Second,Refused
+670,N/A,Computer Science,N/A,"California State University, Fresno",N/A,N/A,N/A,N/A,N/A,N/A
+671,Karachi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,First,Approved
+672,Islamabad,Business Administration,Bachelors,DePaul University,N/A,Relative,N/A,N/A,First,Approved
+673,Islamabad,Transportation,Masters,University of Washington Seattle,N/A,Father,N/A,Uncle,First,Approved
+674,Karachi,IT,Bachelors,N/A,N/A,N/A,N/A,N/A,Second,Refused
+675,N/A,N/A,N/A,N/A,N/A,Father,N/A,N/A,N/A,Refused
+676,N/A,Structural Engineering,Masters,University of Texas at Austin,N/A,Uncle,No,Uncle,N/A,N/A
+677,Islamabad,PhD Computer Science,PhD,"University of California, Davis",N/A,Father,Fully funded,No,First,Approved
+678,N/A,Computer Science,Bachelors,University of Southern Mississippi,N/A,N/A,100%,N/A,N/A,Approved
+679,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+680,Karachi,Bachelor,Bachelors,St. Cloud State University,N/A,Father,N/A,N/A,First,Approved
+681,Islamabad,MBA in Global Affairs,Masters,Bay Atlantic University,N/A,Father,N/A,N/A,First,Rejected
+682,N/A,PhD Nutrition,PhD,University of Minnesota,N/A,HEC/University,Fully Funded,N/A,First,Accepted
+683,N/A,N/A,N/A,N/A,N/A,Father,N/A,N/A,First,Refused
+684,Karachi,Computer Science,N/A,N/A,3,Father,N/A,Friend and cousin,Second,Refused
+685,N/A,Master of Engineering,Masters,Texas Tech University Lubbock,N/A,Father,N/A,N/A,Third,Rejected
+686,Islamabad,Computer Science,Bachelors,Queens College CUNY,1,Father,N/A,No,First,Rejected
+687,Islamabad,Master,Masters,University of California Davis,N/A,Father,N/A,N/A,First,Approved
+688,Karachi,Masters of Professional Accountancy,Masters,"Institute of Business Management (IoBM), Karachi",N/A,Father,N/A,"Grandfather, Mother's family",First,Approved
+689,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+690,N/A,Public Health - Epidemiology,Masters,St. Louis University,3,Parents,N/A,N/A,First,Approved
+691,Karachi,Marketing Analytics,Masters,Illinois Institute of Technology,N/A,Father,Yes,N/A,First,Approved
+692,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,N/A,First,Refused
+693,,PhD,,,,,Fully funded,,,
+694,N/A,Chemistry,Bachelors,N/A,N/A,Father,"$10,000 annually",N/A,N/A,Refused
+695,Islamabad,Computer Science,Bachelors,Minnesota State University Mankato,N/A,Father,45%,N/A,First,Approved
+696,Islamabad,Information System,Bachelors,Adelphi University,3,Father,N/A,N/A,First,Refused
+697,Islamabad,Business Administration,Bachelors,DePaul University,N/A,Cousin,N/A,N/A,First,Approved
+698,N/A,N/A,N/A,Drexel University,7,Father,N/A,No,First,Approved
+699,Karachi,Not specified,Not specified,Not specified,N/A,HEC,N/A,N/A,First,Approved
+700,,Data Science,,"['Grand Valley State University', 'University of North Texas', 'University of New Haven']",,Father,,,2,
+701,Islamabad,Biotechnology,Masters,Texas Tech University,N/A,Loan and waivers,N/A,N/A,First,Refused under 221g
+702,,,,,,,,,,
+703,Islamabad,Business,Bachelors,California State University,2,Father,N/A,N/A,Third,Approved
+704,N/A,Industrial Engineering,N/A,"Southern Illinois University, Edwardsville",2,N/A,$15000 for two years,N/A,N/A,N/A
+705,Islamabad,Pharmacy,Bachelors,San Diego State University,N/A,Father,N/A,N/A,N/A,Refused
+706,Karachi,Observership,Medical Graduate,N/A,N/A,Father,N/A,N/A,First,Approved
+707,,,,St. John's University,,,,,,
+708,Islamabad,Civil Engineering,Masters,University of Texas at Austin,3,Uncle,N/A,Uncle,First,Approved
+709,N/A,Biological Sciences,Bachelors,University of Arizona,N/A,Father,N/A,N/A,N/A,Refused
+710,N/A,N/A,N/A,Southern Illinois University,2,N/A,N/A,N/A,Second,Rejected
+711,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+712,N/A,International Political Economy,N/A,DePaul University,N/A,Father,Yes,N/A,N/A,Refused
+713,Karachi,xyz program,Masters,N/A,3-5,xyz,N/A,No,N/A,Approved
+714,Karachi,Computer Science,Bachelors,St. Cloud State University,N/A,Father,$7906,No,3,Refused
+715,Karachi,Computer Science,Masters,Maharishi International University (MIU),2,Self,N/A,N/A,First,Rejected
+716,Karachi,Cinematography and Film/Video Production,Bachelors,University of Missouri-Kansas City,N/A,N/A,N/A,N/A,First,Approved
+717,,,,,,,,,,
+718,Karachi,Business Management,Bachelors,N/A,N/A,Father,N/A,N/A,Second,Refused
+719,Islamabad,Curriculum and Instruction in Science Education,PhD,Virginia Tech,N/A,N/A,100% assistantship,N/A,First,Approved
+720,Islamabad,Agriculture,Bachelors,Southwest Minnesota State University,1,Father,N/A,N/A,Second,Approved
+721,N/A,Business Administration and Management,Community College,Xyz Community College,N/A,Father,N/A,N/A,N/A,Refused
+722,Islamabad,Law,Masters,Harvard Law School,N/A,N/A,85%,N/A,N/A,N/A
+723,Karachi,Health Care Administration,Masters,"University of Potomac, Virginia",1,Aunt,N/A,Aunt,First,Refused
+724,N/A,MBA,Masters,University of Bridgeport,1,N/A,N/A,N/A,Third,Rejected
+725,Karachi,Technology Management,Masters,N/A,2,Mother,N/A,N/A,First,Refused
+726,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,First,Refused
+727,Karachi,Computer Science,Masters,University of the Pacific,4,Father,N/A,No,Second,Approved
+728,Islamabad,,,,,Uncle,,,,Rejected
+729,Islamabad,Doctorate of Business Administration,PhD,N/A,N/A,Self,N/A,N/A,First,Refused
+730,Islamabad,Computer Science,Bachelors,Queens College NY,N/A,N/A,N/A,Brother,Second,Refused
+731,Karachi,Engineering Management,Masters,N/A,N/A,Landlord,N/A,N/A,First,Refused
+732,Islamabad,Project Management,Masters,Boston University,N/A,Self,N/A,N/A,First,Refused
+733,Islamabad,,,,,,,,Second,Refused
+734,,,,,,,,,,
+735,N/A,Computer Science,N/A,University of Alabama,N/A,Parents,N/A,N/A,Second,Refused
+736,Islamabad,International Business,Bachelors,"University of Minnesota, Mankato",N/A,Father,$8k,Brother,First,Approved
+737,N/A,Business Analytics,Masters,N/A,1,Self/Brother,Yes,Brother,Second,Approved
+738,N/A,Industrial Engineering,Masters,University of Houston,N/A,Employer,N/A,Brother,Second,Refused
+739,Islamabad,Cyber Security,Bachelors,Arkansas Tech University,2,Self,N/A,N/A,First,Refused
+740,N/A,Computer Science,N/A,University of Alabama,N/A,Parents,N/A,N/A,Second,Refused
+741,Islamabad,Data Analytics and Strategic Business Intelligence,N/A,Long Island University (LIU),3,Brother,N/A,N/A,First,Refused
+742,N/A,Data Science,Masters,"University of Connecticut, Storrs",N/A,N/A,N/A,N/A,N/A,N/A
+743,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Second,Rejected
+744,Karachi,Computer Science,Bachelors,St. Cloud State University,N/A,Father,$7906,N/A,3,Refused
+745,Islamabad,Psychology,PhD,N/A,N/A,N/A,N/A,N/A,First,Approved
+746,Karachi,Computer Science,Masters,DePaul University,1,N/A,N/A,No,Second,Refused
+747,Islamabad,Physics,PhD,Georgia State University,N/A,N/A,Fully Funded,Brother,First,Refused
+748,Karachi,Chemical Engineering,PhD,University of Massachusetts Amherst,N/A,Assistantship,Full coverage,N/A,First,Approved
+749,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+750,N/A,Software Engineering,Bachelors,University of Arizona,N/A,Mother,N/A,No,First,Rejected
+751,Karachi,Business Administration,Bachelors,University of Utah,1,Family,"$35,000 across 4 years",No,First,Rejected
+752,Islamabad,Doctorate in Business Administration,PhD,"Westclift University, Irvine California",N/A,Self/Father,N/A,N/A,First,Refused
+753,N/A,Electrical and Electronics Engineering,Masters,Lamar University,N/A,N/A,N/A,N/A,N/A,Refused
+754,N/A,Cyber Security,Masters,University of Delaware,N/A,Uncle,N/A,Uncle,N/A,Refused
+755,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,N/A,First,Refused
+756,Islamabad,Mechanical Engineering,Masters,University of Texas,N/A,Father,More than half tuition fee waived off,N/A,First,"Refused under 221(g), pending completion of Administrative Process"
+757,N/A,Hospitality Management,Bachelors,South Dakota State University,N/A,Father,N/A,N/A,First,Approved
+758,N/A,N/A,N/A,N/A,N/A,Elder Brother,N/A,N/A,Second,N/A
+759,Karachi,N/A,N/A,N/A,N/A,Parents,N/A,Brother,First,Approved
+760,Islamabad,Computing and Information Sciences,PhD,N/A,N/A,Fully funded scholarship,Fully funded,N/A,First,Refused under 221g
+761,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Administrative Processing (221g)
+762,Islamabad,Computer Science,Bachelors,University of Illinois at Chicago,N/A,Father,N/A,No,First,Approved
+763,Islamabad,Construction Management,Masters,University of North Texas,4,Father,N/A,N/A,First,Approved
+764,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Thrice,Refused
+765,Islamabad,Master Programme,Masters,XYZ University,4,N/A,N/A,N/A,First,Refused
+766,N/A,Mechanical Engineering,Masters,Illinois Institute of Technology,4,Father,N/A,N/A,Second,Approved
+767,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Three,Refused
+768,N/A,N/A,N/A,"University of South Carolina, Columbia",N/A,N/A,N/A,N/A,N/A,Refused
+769,Islamabad,Data Analytics,Masters,New Mexico State University,3,Father,N/A,Brother,First,Approved
+770,Islamabad,Finance,Masters,Illinois Institute of Technology,1,N/A,"$7,000",N/A,Second,Refused
+771,Islamabad,Computer Science,Bachelors,Missouri State University,N/A,Father,N/A,N/A,Second,Refused
+772,N/A,N/A,N/A,N/A,N/A,Family,N/A,N/A,Multiple,Rejected
+773,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+774,Karachi,Engineering Management,Masters,N/A,N/A,Landlord,N/A,N/A,First,Refused
+775,N/A,Environmental Health,N/A,New York University,N/A,Father,N/A,N/A,N/A,Refused
+776,Karachi,Civil Engineering,Masters,University of Texas at Arlington,2,N/A,N/A,Brother,Second,Approved
+777,Islamabad,Business,Bachelors,"South Dakota State University, Brookings",1,Father,N/A,No,First,Refused
+778,N/A,N/A,N/A,Iowa State University,N/A,"Father (Primary), Brother (Secondary)",N/A,Brother,N/A,Refused
+779,,PhD,,University of Florida,,,,,,
+780,Islamabad,Associate Program,Community College,Riverside Community College,N/A,Aunt and Uncle,N/A,Elder Sister,First,Refused
+781,Islamabad,N/A,N/A,Cleveland State University,N/A,Cousin,N/A,N/A,N/A,Approved
+782,Munich,B2 Visa,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Refused
+783,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+784,Karachi,Business Administration,Bachelors,Youngstown State University,N/A,Uncle,N/A,N/A,First,Rejected
+785,Karachi,N/A,N/A,N/A,3,N/A,N/A,N/A,Second,Refused
+786,Islamabad,Accountancy,Bachelors,DePaul University,6,Father,"$24,500 per year",No,Second,Refused
+787,Karachi,xyz program,Masters,ABC University,3-5,xyz,N/A,No,N/A,Approved
+788,Karachi,MBA,Masters,Not provided,N/A,Financial Aid/Student Loan,Financial Aid/Student Loan,No,First,Approved
+789,Islamabad,HR Management,Masters,Northeastern University,3,Father,N/A,Brother,First,Approved
+790,Islamabad,PhD,PhD,N/A,N/A,Fully funded scholarship with TA support,Fully funded,Husband on J1 visa,First,Approved
+791,N/A,MBA,Masters,Adelphi University,N/A,Father,N/A,N/A,First,Refused
+792,N/A,Undergraduate,Bachelors,T-50 University,N/A,N/A,80,N/A,N/A,Administrative Processing
+793,N/A,Undergraduate,Bachelors,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+794,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Third,Refused
+795,N/A,Hospitality Management,Masters,Iowa State University,N/A,Mother,N/A,Mother,First,Approved
+796,N/A,MS(IT),Masters,Westcliff,2,N/A,N/A,N/A,First,Refused
+797,Islamabad,,,,,,,,,
+798,Karachi,Computer Science,Masters,University of the Pacific,4,Father,N/A,No,Second,Approved
+799,Karachi,MS in Information Technology,Masters,Gannon University,N/A,Father,N/A,N/A,Second,Refused
+800,Islamabad,Civil Engineering,Masters,Texas Tech University,1,Father,50%,N/A,First,Approved
+801,Islamabad,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Second,Refused
+802,Islamabad,Computer Science,Undergraduate,"University of Connecticut, Storrs Campus",N/A,Father,"$40,000",N/A,First,Approved
+803,N/A,N/A,Bachelors,University of Kansas,N/A,Father,36k scholarship,N/A,First,Approved
+804,,,,,,,,,,
+805,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,First,Approved
+806,N/A,Ph.D. Mathematics,Ph.D.,Rensselaer Polytechnic Institute (RPI),N/A,Father,Fully funded,N/A,First,Refused
+807,Karachi,Mechanical Engineering,Masters,Southern Illinois University Edwardsville,N/A,Parents,"$8,000",N/A,First,Approved
+808,N/A,MS,Masters,University of South Dakota,N/A,N/A,N/A,N/A,Second,Rejected
+809,N/A,Civil Engineering,Masters,N/A,N/A,N/A,Graduate Assistantship,N/A,N/A,Approved
+810,Karachi,Business Administration,Bachelors,N/A,N/A,Uncle,N/A,N/A,First,Refused
+811,Karachi,Flight Training,N/A,N/A,N/A,Father and Cousin,N/A,No,Second,Refused
+812,Karachi,Public Health,Masters,University of New Haven,3,Father,N/A,N/A,First,Approved
+813,N/A,N/A,N/A,Westcliff University,N/A,N/A,N/A,N/A,Second,Refused
+814,Karachi,Computer Science,Bachelors,Washington State University,5,Father,N/A,Brother,First,Rejected
+815,Islamabad,MBA,Masters,University of Maine,N/A,Uncle,Trustee Tuition Scholarship,N/A,Second,Rejected
+816,N/A,Oral Biology,Masters,University of Louisville,5,Self/Father/Family/Friends,N/A,No,First,Approved
+817,Islamabad,Computer Science,Masters,Florida State University,1,Brother,N/A,Brother,First,Rejected
+818,Islamabad,Petrology,Masters,University of Houston,N/A,University (xyz university with the collaboration of the Higher Education commission of Pakistan),N/A,N/A,First,Approved
+819,Karachi,Public Administration,Masters,Central Michigan University,N/A,N/A,N/A,N/A,First,Refused
+820,Islamabad,PhD,PhD,N/A,N/A,Employer,Fully funded with TA support,Husband,First,Approved
+821,Islamabad,Environmental Studies,Masters,Lamar University,N/A,Father,N/A,N/A,First,Refused
+822,N/A,PhD,PhD,University of California,N/A,N/A,N/A,N/A,N/A,N/A
+823,Islamabad,PhD Computer Science,PhD,Stony Brook,N/A,Fully funded,Fully funded,N/A,First,Approved and Issued
+824,N/A,Civil Engineering,Masters,Virginia Tech,N/A,Father,N/A,Extended family,First,Approved
+825,N/A,Data Science,Masters,N/A,N/A,Brother,N/A,N/A,N/A,Approved
+826,Karachi,Flight Training,N/A,N/A,N/A,Father and Cousin,N/A,No,Second,Refused
+827,N/A,Computer Science,Bachelors,University of New Haven,N/A,Father,65%,N/A,First,Rejected
+828,N/A,MS Finance,Masters,Illinois Institute of Technology,N/A,Father,$7000 per semester,N/A,Second,Refused
+829,N/A,Masters in Economics,Masters,George Mason University,3,"Father, Brother-in-law",N/A,Brother-in-law,First,Approved
+830,Islamabad,Business Studies,Bachelors,Rhodes College,1,Father,Yes,No,First,Approved
+831,Karachi,Bachelor of Science in Nursing,Bachelors,Central Michigan University,N/A,N/A,N/A,N/A,First,Refused
+832,Islamabad,Environmental Science,Phd,University of Idaho,2,Father,Graduate Research Assistant,No,First,Approved
+833,,,,,,,,,,
+834,N/A,MSBA,N/A,University of Rochester,4,Father,Yes,Mother's sister,First,Approved
+835,Karachi,Electrical and Computer Engineering,Masters,Illinois Institute of Technology,4,N/A,N/A,N/A,First,Refused
+836,Islamabad,Business Administration,Bachelors,University of South Alabama,1,Brother,N/A,N/A,Third,Refused
+837,Karachi,Marketing,Bachelors,St. Louis University,4,Father,N/A,N/A,Second,Refused
+838,Islamabad,Criminal Justice and Law Enforcement Administration,Masters,University of North Alabama,N/A,N/A,N/A,N/A,N/A,Approved
+839,,,,,,,,,,
+840,Karachi,Information Systems,Bachelors,University of Texas at Arlington,N/A,Father,Yes,N/A,First,Refused
+841,Islamabad,Construction Management,Masters,University of North Texas,4,Father,N/A,N/A,First,Approved
+842,N/A,Human-Computer Interaction,Masters,DePaul University,N/A,N/A,N/A,N/A,N/A,N/A
+843,Islamabad,Computer Science with specialization in AI and Data Science,Masters,City University of Seattle,4,Father,N/A,N/A,First,Refused
+844,,,,University of the Cumberlands,,,,,,
+845,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Second,Refused
+846,,,,,,,,,,
+847,Karachi,Computer Science,Bachelors,San Francisco State University,4,Father and Brother,$5000,No,First,Refused
+848,Karachi,Autonomous Systems & Robotics,N/A,Illinois Institute of Technology,N/A,Father,$7k per semester,N/A,First,Refused
+849,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Second,Rejected
+850,Karachi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+851,Islamabad,Computer Science,Bachelors,University of Massachusetts Amherst,16,Father,Yes,N/A,First,Approved
+852,N/A,Engineering Management,Masters,Westcliff Irvine,N/A,Father,N/A,N/A,Second,Refused
+853,Islamabad,Computer Science,Bachelors,Adelphi University,3,Father,N/A,Mother,First,Refused
+854,Karachi,Flight School,N/A,N/A,N/A,Father and Cousin,N/A,No,Second,Refused
+855,Islamabad,Computer Science,Masters,University of North Carolina Charlotte,5,Father,N/A,N/A,First,Refused
+856,Islamabad,N/A,N/A,New York Institute of Technology,3,Father,N/A,No,Second,Refused
+857,Karachi,MBA in Marketing,Masters,New Mexico Highland University,N/A,Uncle,N/A,"Brother, Uncle",First,Approved
+858,,,,,,,,,,
+859,Islamabad,Data Analytics,Masters,New Mexico State University,3,Father,N/A,Brother,First,Approved
+860,N/A,N/A,Bachelor's,Harvard,N/A,N/A,N/A,N/A,Twice,Refused
+861,Islamabad,Business Administration,Bachelors,University of South Alabama,2,Father,N/A,N/A,Third,Approved
+862,N/A,Business Analytics,Masters,Mercer University,N/A,Father,N/A,N/A,N/A,Approved
+863,Islamabad,Law,Masters,University of California Davis,N/A,Father,N/A,N/A,First,Approved
+864,Islamabad,Master,Masters,University of California Davis,N/A,Father,N/A,N/A,First,Approved
+865,Islamabad,Entrepreneurship,Bachelors,Ohio University,N/A,Brother,"$18,000",Brother,First,Approved
+866,Karachi,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Approved
+867,Islamabad,Information Systems,Masters,Cleveland State University,3,Mother,N/A,No,First,Approved
+868,Islamabad,Computer Science,Bachelors,Rhodes College,20,Father,40k scholarship,N/A,First,Approved
+869,N/A,Civil Engineering,PhD,University of Kansas,N/A,N/A,Yes,N/A,N/A,Approved
+870,N/A,Civil Engineering,Masters,N/A,N/A,N/A,Graduate Assistantship,N/A,N/A,Approved
+871,N/A,Business Administration and Management,Bachelors,"Troy University, Alabama",N/A,Father,N/A,No,Second,Refused
+872,Islamabad,Business,Bachelors,California State University,2,Father,N/A,N/A,Third,Approved
+873,Islamabad,Computer Science,Masters,Maharishi International University,N/A,Sister,N/A,N/A,First,Rejected
+874,Karachi,Health and Hygiene Conference,N/A,N/A,N/A,Self,N/A,Husband,First,Approved
+875,Islamabad,Agriculture,Bachelors,Southwest Minnesota State University,1,Father,N/A,N/A,Second,Approved
+876,Islamabad,Computer Science,Bachelors,Tennessee Tech University,7,Father,N/A,N/A,First,Refused
+877,N/A,Bachelor of Accounting,Bachelors,Kent State University,Multiple,N/A,N/A,N/A,Second,N/A
+878,N/A,N/A,N/A,N/A,N/A,N/A,N/A,Sister,First,Refused
