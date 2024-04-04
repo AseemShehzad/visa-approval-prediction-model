@@ -99,18 +99,18 @@ def predict_prob(university_name, sponsor, relatives, program, scholarship, degr
 
 ## Define the Gradio interface
 
-with gr.Blocks(css= 'footer {visibility: hidden}', title="US Visa Prediction") as interface:
+with gr.Blocks(title="US Visa Prediction") as interface:
     with gr.Row():
         gr.Markdown("## US Visa Prediction")
     with gr.Row():
-        gr.Markdown("### This app predicts the probability of getting a US visa")
+        gr.Markdown("### This app predicts the probability of US student visa approval")
     with gr.Row():
         with gr.Column(width=1):
             # University name
-            university_name = gr.Text(type="text", label="University Name", placeholder="Enter University Name", scale=0)
+            university_name = gr.Text(type="text", label="University Name", placeholder="Enter University Name")
         with gr.Column(width=1):
             # Sponsor
-            sponsor = gr.Dropdown(choices=['Other', 'Family', 'Loan', 'Self', 'University', 'Employer'], label="Sponsor", scale=0)
+            sponsor = gr.Dropdown(choices=['Other', 'Family', 'Loan', 'Self', 'University', 'Employer'], label="Sponsor")
 
     with gr.Row():
         # Relatives
@@ -134,8 +134,8 @@ with gr.Blocks(css= 'footer {visibility: hidden}', title="US Visa Prediction") a
             click_button = gr.Button("Predict")        
 
     # Output
-    pred_prob = gr.Textbox(label="Probability of getting a visa")
+    pred_prob = gr.Textbox(label="Probability of Visa Approval")
     
     click_button.click(fn=predict_prob, inputs=[university_name, sponsor, relatives, program, scholarship, degree_level, visa_attempt], outputs=pred_prob)
 
-interface.launch(debug=True, width="70", show_api=False)
+interface.launch(debug=False, show_api=False)
