@@ -53,8 +53,7 @@ def find_ranks(query, my_df, search_col_name, result_col_name):
     sorted_results = sorted(results_dict.items(), key=lambda x: x[1], reverse=True)
     
     if len(sorted_results) == 0:
-        ## In case searc result is not found, specficy the output here
-        ### print("Nothing found")
+
         result = 1000
         query_final = "N/A"
         

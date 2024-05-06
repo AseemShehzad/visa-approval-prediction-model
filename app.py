@@ -5,6 +5,15 @@ import pandas as pd
 import pickle
 import os
 from utils import standardize_strings, find_ranks
+import socket
+from pathlib import Path
+
+hostname = socket.gethostname()
+local_ip = socket.gethostbyname(hostname)
+static_dir = Path('./static')
+static_dir.mkdir(parents=True, exist_ok=True)
+
+detail_html_path = static_dir / "detail.html"
 
 def load_model_files():
     """ Load the necessary model files such as encoder, red_list, and model """
@@ -32,7 +41,7 @@ def process_inputs(university_name, sponsor, relatives, program, scholarship, de
     input_df (pd.DataFrame): Processed dataframe
     """
     # Load the university ranking database
-    uni_data_dw = pd.read_csv(os.path.join("data", "National Universities Rankings.csv"), encoding='ANSI')
+    uni_data_dw = pd.read_csv(os.path.join("data", "National Universities Rankings.csv"), encoding='windows-1252')
     uni_ranks = pd.DataFrame({'University': uni_data_dw['Name'], 'Rank': uni_data_dw['Rank']})
 
     # Find the rank of the university
@@ -55,7 +64,7 @@ def process_inputs(university_name, sponsor, relatives, program, scholarship, de
     column = 'Visa Attempt'
     attempt_search_list = ['st', 'nd', 'rd', 'th']
     attempt_replace_list = [1, 2, 3, 4]
-    print(input_df[column].dtype)
+
     input_df = standardize_strings(input_df, attempt_search_list, attempt_replace_list, column, 2)
 
     # Standardize Degree Level
@@ -116,12 +125,18 @@ def generate_random_input():
 university_name, sponsor, relatives, program, scholarship, degree_level, visa_attempt = generate_random_input()
 probability = predict_prob(university_name, sponsor, relatives, program, scholarship, degree_level, visa_attempt)
 
+# Load the universities database
+uni_data_dw = pd.read_csv(os.path.join("data", "National Universities Rankings.csv"), encoding='windows-1252')
+uni_ranks = pd.DataFrame({'University': uni_data_dw['Name'], 'Rank': uni_data_dw['Rank']})
+
 ## Define the Gradio interface
 with gr.Blocks(title="US Visa Prediction App") as interface:
     gr.Markdown("<div style='text-align: center; font-size: 2rem;'>US Student Visa Prediction</div>")
-    with gr.Row():
-        # University name
-        university_name = gr.Text(type="text", label="University Name", placeholder="Enter University Name", info="Which university are you applying visa for?")
+    gr.Markdown("<div style='text-align: center;'>This application is created solely for the purpose of helping others. Everything about this is transparent. The creator of the app seeks no financial benefit in any shape or form, including visa consulting.")
+    gr.Markdown("<div style='text-align: center;'><a href = ./detail.html Click here </a> for learning about the prediction process.</div>")
+
+# University name
+    university_name = gr.Dropdown(choices=list(uni_ranks['University'].unique()), label="University Name", info="Which university are you applying visa for?")    
     with gr.Row():
         
         # Sponsor
@@ -143,7 +158,7 @@ with gr.Blocks(title="US Visa Prediction App") as interface:
     
     click_button = gr.Button("Predict")
     pred_prob = gr.Textbox(label="Probability of Visa Approval")
-    gr.Markdown("<div style='text-align: center;'>Contact at <a href='mailto:aseemshehzad10@gmail.com'>aseemshehzad10@gmail.com</a> for any questions or guidance.</div>")
+    gr.Markdown("<div style='text-align: center;'>Contact at <a href='mailto:aseemshehzad10@gmail.com'>aseemshehzad10@gmail.com</a> for any ideas/questions about the application.</div>")
     
     click_button.click(fn=predict_prob, inputs=[university_name, sponsor, relatives, program, scholarship, degree_level, visa_attempt], outputs=pred_prob)
 
