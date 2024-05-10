@@ -8,13 +8,6 @@ from utils import standardize_strings, find_ranks
 import socket
 from pathlib import Path
 
-hostname = socket.gethostname()
-local_ip = socket.gethostbyname(hostname)
-static_dir = Path('./static')
-static_dir.mkdir(parents=True, exist_ok=True)
-
-detail_html_path = static_dir / "detail.html"
-
 def load_model_files():
     """ Load the necessary model files such as encoder, red_list, and model """
     with open(os.path.join('inference_files', 'onehot_encoder.pkl'), 'rb') as file:
@@ -133,7 +126,7 @@ uni_ranks = pd.DataFrame({'University': uni_data_dw['Name'], 'Rank': uni_data_dw
 with gr.Blocks(title="US Visa Prediction App") as interface:
     gr.Markdown("<div style='text-align: center; font-size: 2rem;'>US Student Visa Prediction</div>")
     gr.Markdown("<div style='text-align: center;'>This application is created solely for the purpose of helping others. Everything about this is transparent. The creator of the app seeks no financial benefit in any shape or form, including visa consulting.")
-    gr.Markdown("<div style='text-align: center;'><a href = ./detail.html Click here </a> for learning about the prediction process.</div>")
+    gr.Markdown("<div style='text-align: center;'><a href='https://github.com/md-aseem/visa-approval-prediction-model/wiki'>Click here</a> for learning about the prediction process.</div>")
 
 # University name
     university_name = gr.Dropdown(choices=list(uni_ranks['University'].unique()), label="University Name", info="Which university are you applying visa for?")    
